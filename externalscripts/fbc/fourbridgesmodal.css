@@ -1,0 +1,205 @@
+#body, #html
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width:auto;
+    overflow: visible;
+    font-size:14px;
+}
+media screen and (max-width: 340px){
+  font-size: 10px;
+
+}
+#modal-close{
+margin-top: -15px;
+}
+.modal-overlay {
+    position: fixed;
+    z-index: 999;
+    top: -100px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 125%;
+    width: 100%;
+    background: transparent!important;
+    display: none;
+    will-change: opacity;
+}
+#c2ontent
+{
+    position:absolute; left: 0; right: 0; bottom: 0; top: 0px;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: #fafafa;
+    padding: 0;
+    max-height: 87%!important;
+    width: 85%;
+    margin: auto;
+    overflow-y: auto;
+    border-radius: 2px;
+    top: 3vh !important;
+        font-size: .80em;
+    will-change: top, opacity;
+}
+
+.modal1-top{
+margin-bottom:0px!important;
+}
+
+.modal1-mid{
+margin-bottom:0px!important;
+}
+
+.modal2-top img {
+  max-width: 75%;
+ max-height: 100%;
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+ padding-top: 20px;
+}
+.modal2-right img {
+ max-width:80%;
+ padding-top:14px;
+ display:none;
+}
+
+.modal2-left h4{
+  color:rgba(237,187,97,.95);
+  padding: 0px 0px 10px 0px;
+
+  font-size: 1.75em;
+  text-align: center;
+  line-height: 1.20;
+  margin-bottom: .5em;
+    line-height: 1.2em;
+}
+.modal1-left p{
+
+  padding: 0px 0px 5px 0px;
+  font-size: .80em;
+}
+.input-field {
+    margin-top: .75em;
+}
+input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea{
+      margin: 0 0 10px 0;
+}
+.btn, .btn-large {
+
+    margin-top: 1em;
+}
+@media screen and (min-width: 680px) {
+  input:not([type]), input[type=text], input[type=password], input[type=email], input[type=url], input[type=time], input[type=date], input[type=datetime], input[type=datetime-local], input[type=tel], input[type=number], input[type=search], textarea.materialize-textarea{
+        margin: 0 0 20px 0;
+  }
+  .modal {
+      display: none;
+      position: fixed;
+      left: 0;
+      right: 0;
+      background-color: #fafafa;
+      padding: 0;
+      max-height: 87%!important;
+      width: 55%;
+      margin: auto;
+      overflow-y: auto;
+      border-radius: 2px;
+      top: 2vh !important;
+      font-size: .95em;
+      will-change: top, opacity;
+  }
+  .modal2-right img {
+     max-width:99%!important;
+   padding-top:48px!important;
+   display:block !important;
+  }
+  .modal2-top img {
+   max-width:50%;
+   max-height:100%;
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+    padding-top: 5px;
+ }
+
+ .modal2-left h4{
+ color:rgba(237,187,97,.95);
+ padding:35px 25px 0px 25px;
+ font-size: 2.25em;
+ text-align: center;
+ line-height: 1.25 !important;
+ margin-bottom: .5em;
+ }
+ .modal1-left p{
+
+   padding: 0px 23px 5px 23px;
+   font-size: .80em;
+ }
+}
+.modal1-top h4{
+
+padding:15px 25px 0px 25px;
+font-size: 1.25em;
+text-align: center;
+line-height: 1.40;
+}
+
+//.modal2
+
+.modal2-top{
+margin-bottom:0px!important;
+}
+
+.modal2-mid{
+margin-bottom:0px!important;
+margin-top:.55em;
+}
+.modal2-mid .input-field{
+margin-top:0px!important;
+}
+.modal2-mid .input-field{
+line-height: 2.2em;
+}
+
+.modal2-left img{
+  max-width:60%;
+  max-height:auto;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.modal2-right h5{
+margin: 0.55rem 0 0.35rem 0;
+padding:15px 25px 10px 25px;
+font-size: 1.05em;
+text-align: center;
+line-height: 1.15;
+}
+.modal2-left p{
+  padding: 0px 23px 5px 23px;
+      font-size: 1.20em;
+      text-align: center;
+      line-height: 1.45em;
+      margin: .25em 0 .25em 0;
+  }
+}
+.modal2-right p{
+padding: 0px 15px 0px 15px;
+  font-size: .8em;
+  text-align: center;
+  line-height: 1.35em;
+}
+
+#modal2 {
+  max-height: 88% !important;
+}
+

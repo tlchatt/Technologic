@@ -1,0 +1,36 @@
+iframe {
+  border-width: 0;
+  border-style: none;
+  border-color: none;
+  border-image: none;
+  height: 300vh;
+  width: 100vw;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: -1;
+}
+@media screen and (min-width: 880px) {
+iframe {
+    border-width: 0;
+    border-style: none;
+    border-color: none;
+    border-image: none;
+    height: 300vh;
+    width: 100vw;
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: -1;
+}
+}
+
+
+.banner-thumbnail-wrapper{
+
+  z-index:1;
+}
