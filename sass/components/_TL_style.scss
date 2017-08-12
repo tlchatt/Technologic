@@ -32,50 +32,22 @@
    }
   }
 
+  .scroll-wrapper {
+    position: absolute;
+    z-index: 997;
+    bottom: 1%;
+    left: 50%;
+    right: 50%;
 
-  html, body {
-	height: 4000px;
-}
+    i {
+      width: 15%;
+      min-width: 80px !important;
+      font-size: 60px;
+   }
+  }
 
-.navbar-fixed {
-    top: 0;
-    z-index: 100;
-  position: fixed;
-    width: 100%;
-}
-
-#body_div {
-	top: 0;
-	position: relative;
-    height: 200px;
-    background-color: green;
-}
-
-#banner {
-	width: 100%;
-	height: 273px;
-    background-color: gray;
-	overflow: hidden;
-}
-
-#nav_bar {
-	border: 0;
-	background-color: #202020;
-	border-radius: 0px;
-	margin-bottom: 0;
-    height: 30px;
-}
-
-.nav_links {
-    margin: 0;
-}
-
-.nav_links li {
-	display: inline-block;
-    margin-top: 4px;
-}
-.nav_links li a {
-	padding: 0 15.5px;
-	color: #3498db;
-	text-decoration: none;
-}
+  #content {
+  position: relative;
+  top : 100vh;
+  }
+// css shite for sticky navbar

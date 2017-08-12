@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<?php include("header_main.php"); ?>
 
 <!--fullscreen slider intro image-->
 <div id="banner">
@@ -44,12 +44,15 @@
 <div class="logo-wrapper">
   <img src="./img/technologic_square_white_logo.png">
 </div>
+<div class="scroll-wrapper">
+  <i class="white-text material-icons shadow2">expand_more</i>
+</div>
 </div>
 <a id="scrolldown" name="scrolldown"></a>
 <!--end of fullscreen slider-->
 
 
-<!--sticky header (needs css/js)-->
+<!--sticky nav (needs css/js)
 
 
   <nav id='nav_bar'>
@@ -60,16 +63,15 @@
       <li><a href="url">About</a></li>
     </ul>
   </nav>
-<div id='body_div'>
-    <p style='margin: 0; padding-top: 50px;'>and more stuff to continue scrolling here</p>
-</div>
+
+ -->
 
 
 
 
-<!--end of sticky header-->
-
-<div class="section no-marg-bot no-pad-bot" id="index-banner">
+<!--end of sticky nav -->
+<div id="content">
+<div class="section">
   <div class="container">
     <div class="row center section">
       <h1 class="header center">Cutting Edge Web Development</h1>
@@ -107,6 +109,7 @@
       <a href="#contact-modal" id="download-button" class="modal-trigger btn-large waves-effect waves-light">Get In Touch</a>
     </div>
   </div>
+</div>
 </div>
 
 
