@@ -15,6 +15,20 @@
    filter: drop-shadow(0px 5px 10px rgba(0,0,0,.7));
 }
 
+// slider font breakpoints
+.heading {
+  font-size: 3.56rem !important;
+
+  @media #{$large-and-up} {
+    font-size: 3.56rem !important;
+  }
+  @media #{$medium-only} {
+    font-size: 3.00rem !important;
+  }
+  @media #{$small-and-down} {
+    font-size: 2.56rem !important;
+  }
+}
 
 
 //custom TL logo positioning
