@@ -1,53 +1,57 @@
 <?php include("header_main.php"); ?>
 
 <!--fullscreen slider intro image-->
-<div id="banner">
-<div class="slider fullscreen">
-  <ul class="slides">
-    <li>
-      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
-      <div class="caption left-align">
-        <h1 class="shadow2 light">DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
-        <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
-      </div>
-    </li>
-    <li>
-      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
-      <div class="caption left-align">
-        <h2 class="shadow2 light">WEB DESIGN & DEVELOPMEMNT</h2>
-        <h5 class="light text-lighten-3 shadow2">From simple one-page sites to full wordpress customizations, we provides incredibl performance at an incredible price.</h5>
-      </div>
-    </li>
-    <li>
-      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
-      <div class="caption left-align">
-        <h2 class="shadow2 light">SEARCH ENGINE OPTIMIZATION</h2>
-        <h5 class="light text-lighten-3 shadow2">Rank first on search. Enough said.</h5>
-      </div>
-    </li>
-    <li>
-      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
-      <div class="caption left-align">
-        <h2 class="shadow2 light">ONLINE MARKETING</h2>
-        <h5 class="light text-lighten-3 shadow2">We deliver the higest value per dollar. Advertise on any online platform.</h5>
-      </div>
-    </li>
-    <li>
-      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
-      <div class="caption left-align">
-        <h2 class="shadow2 light">ECOMMERCE INTEGRATION</h2>
-        <h5 class="light text-lighten-3 shadow2">Fulfill every order, slash overhead, and manage inventory like a pro.</h5>
-      </div>
-    </li>
-  </ul>
+<div id="banner" class="parallax-container">
+  <div class="parallax"><img src="./img/walnut_st_bridge_filter_cropped.png"></div>
+  <div class="slider fullscreen">
+    <ul class="slides">
+      <li>
+        <img src="./img/Clear.jpg">
+        <div class="caption left-align">
+          <h1 class="shadow2 light">DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
+          <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="./img/Clear.jpg">
+        <div class="caption left-align">
+          <h2 class="shadow2 light">WEB DESIGN & DEVELOPMEMNT</h2>
+          <h5 class="light text-lighten-3 shadow2">From simple one-page sites to full wordpress customizations, we provides incredibl performance at an incredible price.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="./img/Clear.jpg">
+        <div class="caption left-align">
+          <h2 class="shadow2 light">SEARCH ENGINE OPTIMIZATION</h2>
+          <h5 class="light text-lighten-3 shadow2">Rank first on search. Enough said.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="./img/Clear.jpg">
+        <div class="caption left-align">
+          <h2 class="shadow2 light">ONLINE MARKETING</h2>
+          <h5 class="light text-lighten-3 shadow2">We deliver the higest value per dollar. Advertise on any online platform.</h5>
+        </div>
+      </li>
+      <li>
+        <img src="./img/Clear.jpg">
+        <div class="caption left-align">
+          <h2 class="shadow2 light">ECOMMERCE INTEGRATION</h2>
+          <h5 class="light text-lighten-3 shadow2">Fulfill every order, slash overhead, and manage inventory like a pro.</h5>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div class="logo-wrapper">
+    <img src="./img/technologic_square_white_logo.png">
+  </div>
+  <div class="row center scroll-wrapper">
+    <div class="col s12 center">
+      <i class="white-text material-icons shadow2">expand_more</i>
+    </div>
+  </div>
 </div>
-<div class="logo-wrapper">
-  <img src="./img/technologic_square_white_logo.png">
-</div>
-<div class="scroll-wrapper">
-  <i class="white-text material-icons shadow2">expand_more</i>
-</div>
-</div>
+
 <a id="scrolldown" name="scrolldown"></a>
 <!--end of fullscreen slider-->
 
@@ -70,7 +74,6 @@
 
 
 <!--end of sticky nav -->
-<div id="content">
 <div class="section">
   <div class="container">
     <div class="row center section">
