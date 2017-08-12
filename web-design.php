@@ -42,75 +42,130 @@
       </li>
     </ul>
   </div>
-  <div class="logo-wrapper">
+  <div class=" logo-wrapper">
     <img src="./img/technologic_square_white_logo.png">
   </div>
-  <div class="scroll-wrapper">
+  <div id="scrollLink" href="#" class="scroll-wrapper">
     <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
   </div>
 </div>
-
-<a id="scrolldown" name="scrolldown"></a>
 <!--end of fullscreen slider-->
 
 
 <!--sticky nav (needs css/js)
 
 
-  <nav id='nav_bar'>
-    <ul class='nav_links'>
-      <li><a href="url">Nav Bar</a></li>
-      <li><a href="url">Sign In</a></li>
-      <li><a href="url">Blog</a></li>
-      <li><a href="url">About</a></li>
-    </ul>
-  </nav>
+<nav id='nav_bar'>
+<ul class='nav_links'>
+<li><a href="url">Nav Bar</a></li>
+<li><a href="url">Sign In</a></li>
+<li><a href="url">Blog</a></li>
+<li><a href="url">About</a></li>
+</ul>
+</nav>
 
- -->
+-->
 
 
 
 
 <!--end of sticky nav -->
+
+
+
 <div class="section">
+  <a id="scrolldown" name="scrolldown"></a>
+
+  <!--services section-->
   <div class="container">
-    <div class="row center section">
-      <h4 class="header center">something goes here</h4>
-      <h5 class="header col s12 light">something else here</h5>
-    </div>
-    <div class="row center">
-      <div class="col s12">
-        <p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Internet users expect modern websites to load quickly regardless of whether they are using wifi or their cellular network. Sites also need to look good on any number of screen sizes from smartphone to full sized desktop.  This type of methodology is known as 'Responsive Design', and at Technologic, we build each site with responsiveness in mind.</p>
+    <div class="section">
+      <div class="row">
+        <div class="section center">
+          <h4 class="center light">SERVICES</h4>
+        </div>
+        <div class="divider"></div>
+        <div class="col s12 m8 l6">
+          <p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Web users expect sites to load quickly regardless of whether they are using wifi or cellular. Sites also need to look good on any screen size. This is called responsive design. At Technologic, we build every site to be responsive from the ground up.</p>
+        </div>
+        <div class="col s12 m8">
+          <p>We work directly on behalf of your business to produce the best return on advertising investment possible. We provide month to month <strong>obligation free</strong> service. We establish long-term relationships with our clients through positive results, not contractual obligations.</p>
+        </div>
       </div>
     </div>
-
-    <div class="row center section">
-      <div class="col s12 m8">
-        <p>Technologic works directly on behalf of your business with the goal of producing the best return on advertising investment possible. We provide month to month obligation free service establishing long term relationships with our clients through positive results not contractual obligations.</p>
-      </div>
-
-      <div class="col s12 m4">
-        <img class="materialboxed responsive-img" src="./img/diamonds.png"/>
-      </div>
-
-      <div class="col s12 m4">
-        <img class="materialboxed responsive-img" src="./img/blueplate.png"/>
-      </div>
-
-      <div class="col s12 m8">
-        <p>Making a decisions about digital marketing for your business can be difficult. Information available though online search about digital marketing is convulted, conflicting, and aimed at getting you to sign up for any number of useless services which will waste time and money. In fact making the wrong choices can lead to various set backs in online presence and postion. Our information section is designed to help educate non marketers and amatuer marketers alike in understanding the basic principles and essential's necessary for successful online presence.</p>
-      </div>
+  </div>
 
 
-      <div class="col s12">
-        <p>Meet with a Technologic team member and receive a free consultation on how your company can improve its online presence through online advertising. We will look over your companies analytics and discuss best practice strategies for your businesses and explain how we can partner with your business for digital success.</p>
-      </div>
+  <!--work section-->
+<div class="section" style="background-color: #f7f7f7;">
+  <div class="row">
+    <div class="section center">
+      <h4 class="center light">WORK</h4>
     </div>
-    <div class="row center section">
-      <a href="#contact-modal" id="download-button" class="modal-trigger btn-large waves-effect waves-light">Get In Touch</a>
+    <div class="col s6">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
+    </div>
+    <div class="col s6">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.png">
+    </div>
+    <div class="col s6">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.png">
+    </div>
+    <div class="col s6">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.png">
     </div>
   </div>
 </div>
 
+  <!--end work section-->
 
-<?php include("footer.php"); ?>
+  <!--team section-->
+  <div class="section">
+    <div class="row">
+      <div class="section center">
+        <div class="section">
+          <h4 class="center light">TEAM</h4>
+        </div>
+      </div>
+      <div class="col s12 l4 center">
+        <div class="section">
+          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/chrome-trex-dinosaur.jpg">
+          <p>Greggasarous Wiley</p>
+        </div>
+      </div>
+      <div class="col s12 l4 center">
+        <div class="section">
+          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/Mallory_crop.png">
+          <p>Mallory Nelson</p>
+        </div>
+      </div>
+      <div class="col s12 l4 center">
+        <div class="section">
+          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/cole_crop.png">
+          <p>Cole Montalvo</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--end team section-->
+
+
+  <div class="divider"></div>
+
+
+  <div class="col s12 m8">
+    <p>Making the transition to digital marketing can be intimidating. Thats where we come in. We've created a brief guide to help you understand the basic principles necessary for creating a strong, professional online presence.</p>
+    <button>Check it out</button>
+    <p>available though online search about digital marketing is convulted, conflicting, and aimed at getting you to sign up for any number of useless services which will waste time and money. In fact making the wrong choices can lead to various set backs in online presence and</p>
+  </div>
+
+
+  <div class="col s12">
+    <p>Meet with a Technologic team member and receive a free consultation on how your company can improve its online presence through online advertising. We will look over your companies analytics and discuss best practice strategies for your businesses and explain how we can partner with your business for digital success.</p>
+  </div>
+  <div class="row center section">
+    <a href="#contact-modal" id="download-button" class="modal-trigger btn-large waves-effect waves-light">Get In Touch</a>
+  </div>
+
+
+
+  <?php include("footer.php"); ?>
