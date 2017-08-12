@@ -1,5 +1,7 @@
 <?php include("header.php"); ?>
 
+<!--fullscreen slider intro image-->
+<div id="banner">
 <div class="slider fullscreen">
   <ul class="slides">
     <li>
@@ -39,6 +41,33 @@
     </li>
   </ul>
 </div>
+<div class="logo-wrapper">
+  <img src="./img/technologic_square_white_logo.png">
+</div>
+</div>
+<a id="scrolldown" name="scrolldown"></a>
+<!--end of fullscreen slider-->
+
+
+<!--sticky header (needs css/js)-->
+
+
+  <nav id='nav_bar'>
+    <ul class='nav_links'>
+      <li><a href="url">Nav Bar</a></li>
+      <li><a href="url">Sign In</a></li>
+      <li><a href="url">Blog</a></li>
+      <li><a href="url">About</a></li>
+    </ul>
+  </nav>
+<div id='body_div'>
+    <p style='margin: 0; padding-top: 50px;'>and more stuff to continue scrolling here</p>
+</div>
+
+
+
+
+<!--end of sticky header-->
 
 <div class="section no-marg-bot no-pad-bot" id="index-banner">
   <div class="container">
@@ -79,5 +108,6 @@
     </div>
   </div>
 </div>
+
 
 <?php include("footer.php"); ?>
