@@ -82,7 +82,6 @@
       </div>
     </div>
   </footer>
-</div>
 
 
   <!--  Scripts-->
