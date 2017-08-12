@@ -8,9 +8,22 @@
 
       $('.slider').slider({
         indicators: false,
-        interval: 10000,
-        height: 500
+        interval: 10000
       });
+
+      $(window).scroll(function () {
+      //if you hard code, then use console
+      //.log to determine when you want the
+      //nav bar to stick.
+      //console.log($(window).height())
+      //console.log($(window).scrollTop())
+    if ($(window).scrollTop() > $(window).height()) {
+      $('#nav_bar').addClass('navbar-fixed');
+    }
+    if ($(window).scrollTop() < $(window).height() + 1) {
+      $('#nav_bar').removeClass('navbar-fixed');
+    }
+  });
 
       //for google maps...
       // you want to enable map pointer events only on click;
