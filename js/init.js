@@ -13,7 +13,15 @@
 
 
 
+      //control nav scrolling
+      function scrollToAnchor(aid){
+        var aTag = $("a[name='"+ aid +"']");
+        $('html,body').animate({scrollTop: aTag.offset().top},'slow');
+      }
 
+      $("#scrollLink").click(function() {
+        scrollToAnchor('scrolldown');
+      })
 
 
       //for google maps...
