@@ -46,21 +46,29 @@
    }
   }
 
+// scroll down link positioning
   .scroll-wrapper {
     position: absolute;
     z-index: 997;
     bottom: 1%;
-    left: 45%;
+    width: 100%;
+    text-align: center;
 
     i {
-      width: 15%;
-      min-width: 80px !important;
       font-size: 60px;
    }
   }
 
-  #content {
-  position: relative;
-  top : 100vh;
+//custom hover styling
+  .hoverable-flat-scroll {
+    transition: color .25s;
+    color: $secondary-color;
   }
+
+  //adding flat hover styling
+  .hoverable-flat-scroll:hover {
+    transition: color .25s;
+    color: $primary-color;
+  }
+
 // css shite for sticky navbar

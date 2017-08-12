@@ -16,7 +16,7 @@
         <img src="./img/Clear.png">
         <div class="caption left-align">
           <h2 class="shadow2 light heading">WEB DESIGN & DEVELOPMEMNT</h2>
-          <h5 class="light text-lighten-3 shadow2">From simple one-page sites to full wordpress customizations, we provides incredibl performance at an incredible price.</h5>
+          <h5 class="light text-lighten-3 shadow2">From simple one-page sites to full wordpress customizations, we build it all.</h5>
         </div>
       </li>
       <li>
@@ -47,7 +47,7 @@
   </div>
   <div class="row center scroll-wrapper">
     <div class="col s12 center">
-      <i class="white-text material-icons shadow2">expand_more</i>
+      <i class="hoverable-flat-scroll white-text material-icons shadow2">expand_more</i>
     </div>
   </div>
 </div>
