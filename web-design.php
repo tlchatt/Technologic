@@ -74,8 +74,8 @@
 <div class="section">
   <div class="container">
     <div class="row center section">
-      <h1 class="header center">Cutting Edge Web Development</h1>
-      <h2 class="header col s12 light">High Quality Site Design and Development Services</h2>
+      <h4 class="header center">something goes here</h4>
+      <h5 class="header col s12 light">something else here</h5>
     </div>
     <div class="row center">
       <div class="col s12">
