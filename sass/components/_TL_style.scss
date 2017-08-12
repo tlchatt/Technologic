@@ -1,0 +1,16 @@
+//pretty drop shadow (materialize only has box shadows)
+.shadow {
+  -webkit-filter: drop-shadow(10px 20px 10px rgba(0,0,0,.5));
+   -moz-filter: drop-shadow(10px 20px 10px rgba(0,0,0,.5));
+   -ms-filter: drop-shadow(10px 20px 10px rgba(0,0,0,.5));
+   -o-filter: drop-shadow(10px 20px 10px rgba(0,0,0,.5));
+   filter: drop-shadow(10px 20px 10px rgba(0,0,0,.5));
+}
+
+.shadow2 {
+  -webkit-filter: drop-shadow(0px 5px 10px rgba(0,0,0,.7));
+   -moz-filter: drop-shadow(0px 5px 10px rgba(0,0,0,.7));
+   -ms-filter: drop-shadow(0px 5px 10px rgba(0,0,0,.7));
+   -o-filter: drop-shadow(0px 5px 10px rgba(0,0,0,.7));
+   filter: drop-shadow(0px 5px 10px rgba(0,0,0,.7));
+}
