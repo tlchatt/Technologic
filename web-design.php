@@ -47,7 +47,7 @@
   </div>
   <div class="row center scroll-wrapper">
     <div class="col s12 center">
-      <i class="hoverable-flat-scroll white-text material-icons shadow2">expand_more</i>
+      <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
     </div>
   </div>
 </div>
