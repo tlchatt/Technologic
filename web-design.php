@@ -30,7 +30,7 @@
         <img src="./img/Clear.png">
         <div class="caption left-align">
           <h2 class="shadow2 light heading">ONLINE MARKETING</h2>
-          <h5 class="light text-lighten-3 shadow2">We deliver the higest value per dollar. Advertise on any online platform.</h5>
+          <h5 class="light text-lighten-3 shadow2">We deliver the higest value per dollar. Advertise across any online platform.</h5>
         </div>
       </li>
       <li>
@@ -45,10 +45,8 @@
   <div class="logo-wrapper">
     <img src="./img/technologic_square_white_logo.png">
   </div>
-  <div class="row center scroll-wrapper">
-    <div class="col s12 center">
-      <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
-    </div>
+  <div class="scroll-wrapper">
+    <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
   </div>
 </div>
 
