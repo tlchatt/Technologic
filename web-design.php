@@ -3,31 +3,38 @@
 <div class="slider fullscreen">
   <ul class="slides">
     <li>
-      <img src="./img/Walnut_Street_Bridge_Chattanooga.jpg"> <!-- random image -->
-      <div class="caption center-align">
-        <h3>This is our big Tagline!</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-    </li>
-    <li>
-      <img src="./img/Walnut_Street_Bridge_Chattanooga.jpg"> <!-- random image -->
+      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
       <div class="caption left-align">
-        <h3>Left Aligned Caption</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+        <h1 class="shadow2 light">DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
+        <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
       </div>
     </li>
     <li>
-      <img src="./img/Walnut_Street_Bridge_Chattanooga.jpg"> <!-- random image -->
-      <div class="caption right-align">
-        <h3>Right Aligned Caption</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
+      <div class="caption left-align">
+        <h2 class="shadow2 light">WEB DESIGN & DEVELOPMEMNT</h2>
+        <h5 class="light text-lighten-3 shadow2">From simple one-page sites to full wordpress customizations, we provides incredibl performance at an incredible price.</h5>
       </div>
     </li>
     <li>
-      <img src="./img/Walnut_Street_Bridge_Chattanooga.jpg"> <!-- random image -->
-      <div class="caption center-align">
-        <h3>This is our big Tagline!</h3>
-        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
+      <div class="caption left-align">
+        <h2 class="shadow2 light">SEARCH ENGINE OPTIMIZATION</h2>
+        <h5 class="light text-lighten-3 shadow2">Rank first on search. Enough said.</h5>
+      </div>
+    </li>
+    <li>
+      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
+      <div class="caption left-align">
+        <h2 class="shadow2 light">ONLINE MARKETING</h2>
+        <h5 class="light text-lighten-3 shadow2">We deliver the higest value per dollar. Advertise on any online platform.</h5>
+      </div>
+    </li>
+    <li>
+      <img style="filter: brightness(50%)" src="./img/Walnut_Street_Bridge_Chattanooga.jpg">
+      <div class="caption left-align">
+        <h2 class="shadow2 light">ECOMMERCE INTEGRATION</h2>
+        <h5 class="light text-lighten-3 shadow2">Fulfill every order, slash overhead, and manage inventory like a pro.</h5>
       </div>
     </li>
   </ul>
