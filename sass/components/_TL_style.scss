@@ -1,3 +1,11 @@
+$walnut-bridge-color: (
+  "base":    #367DB3);
+
+$TL-offwhite: #f7f7f7;
+$TL-dark: #333;
+
+
+
 //pretty drop shadow (materialize only has box shadows)
 .shadow {
   -webkit-filter: drop-shadow(10px 20px 10px rgba(0,0,0,.5));
