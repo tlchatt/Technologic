@@ -141,67 +141,68 @@
   <!--end work section-->
 
   <!--company section-->
-  <div style="padding: 70px 10px 120px 10px;">
-    <a id="about" name="about"></a>
-    <div class="row">
-      <div class="section">
-        <h4 class="center thin">ABOUT</h4>
-      </div>
-      <div class="col s4">
+  <div style="padding: 0 0 120px 0;">
+    <div style="padding: 0 10px 0 10px;">
+      <a id="about" name="about"></a>
+      <div class="row">
+        <div class="section">
+          <h4 class="center thin">ABOUT</h4>
+        </div>
+        <div class="col s4">
           <img class="z-depth-3 responsive-img hoverable" src="./img/on_the_go.jpg">
-      </div>
-      <div class="col s4">
+        </div>
+        <div class="col s4">
           <img style="background-color: #367DB3;" class="z-depth-3 responsive-img hoverable" src="./img/tl_logo_center.png">
-      </div>
-      <div class="col s4">
+        </div>
+        <div class="col s4">
           <img class="z-depth-3 responsive-img hoverable" src="./img/metrics.png">
+        </div>
+        <div class="col s12">
+          <p class="light text-lighten-1">Brief description of Technologic.</p>
+        </div>
       </div>
-      <div class="col s12">
-        <p class="light text-lighten-1">Brief description of Technologic.</p>
+    </div>
+
+    <div class="parallax-container" style="height: 350px;">
+      <div class="parallax"><img src="./img/raccoon.jpg"></div>
+      <div class="slider">
+        <ul class="slides">
+          <li>
+            <img src="./img/Clear.png">
+            <div class="caption-default center-align">
+              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+              <p>- Andy Berke</p>
+              <p>- Mayor of Chattanooga</p>
+            </div>
+          </li>
+          <li>
+            <img src="./img/Clear.png">
+            <div class="caption-default center-align">
+              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="./img/Clear.png">
+            <div class="caption-default center-align">
+              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="./img/Clear.png">
+            <div class="caption-default center-align">
+              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="./img/Clear.png">
+            <div class="caption-default center-align">
+              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
-
-  <div class="parallax-container" style="height: 350px;">
-    <div class="parallax"><img src="./img/raccoon.jpg"></div>
-    <div class="slider">
-      <ul class="slides">
-        <li>
-          <img src="./img/Clear.png">
-          <div class="caption-default">
-            <h5 class=" light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-            <p>- Andy Berke</p>
-            <p>- Mayor of Chattanooga</p>
-          </div>
-        </li>
-        <li>
-          <img src="./img/Clear.png">
-          <div class="caption-default center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-          </div>
-        </li>
-        <li>
-          <img src="./img/Clear.png">
-          <div class="caption-default center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-          </div>
-        </li>
-        <li>
-          <img src="./img/Clear.png">
-          <div class="caption-default center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-          </div>
-        </li>
-        <li>
-          <img src="./img/Clear.png">
-          <div class="caption-default center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-
   <!--end company section-->
 
 
