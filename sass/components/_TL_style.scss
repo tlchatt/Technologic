@@ -67,6 +67,17 @@ $TL-dark: #333;
    }
   }
 
+//hero parallax caption positioning
+  .caption-wrapper {
+    position: absolute;
+    color: #fff;
+    z-index: 997;
+    top: 15%;
+    left: 7%;
+    width: 55%;
+    text-align: left;
+  }
+
 //custom hover styling
   .hoverable-flat-scroll {
     transition: color .25s;
