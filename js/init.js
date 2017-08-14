@@ -8,7 +8,8 @@
 
       $('.slider').slider({
         indicators: false,
-        interval: 10000
+        interval: 5000,
+        transition: 2000
       });
 
 
