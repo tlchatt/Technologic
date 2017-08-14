@@ -12,7 +12,7 @@
           <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
         </div>
       </li>
-      <li>
+      <!--<li>
         <img src="./img/Clear.png">
         <div class="caption left-align">
           <h2 class="shadow2 light heading">WEB DESIGN & DEVELOPMEMNT</h2>
@@ -39,7 +39,7 @@
           <h2 class="shadow2 light heading">ECOMMERCE INTEGRATION</h2>
           <h5 class="light text-lighten-3 shadow2">Fulfill every order, slash overhead, and manage inventory like a pro.</h5>
         </div>
-      </li>
+      </li>-->
     </ul>
   </div>
   <div class=" logo-wrapper">
@@ -73,44 +73,66 @@
 
 
 
-<div class="section">
-  <a id="scrolldown" name="scrolldown"></a>
+
+
 
   <!--services section-->
-  <div class="container">
-    <div class="section">
-      <div class="row">
-        <div class="section center">
-          <h4 class="center light">SERVICES</h4>
-        </div>
-        <div class="divider"></div>
-        <div class="col s12 m8 l6">
-          <p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Web users expect sites to load quickly regardless of whether they are using wifi or cellular. Sites also need to look good on any screen size. This is called responsive design. At Technologic, we build every site to be responsive from the ground up.</p>
-        </div>
-        <div class="col s12 m8">
-          <p>We work directly on behalf of your business to produce the best return on advertising investment possible. We provide month to month <strong>obligation free</strong> service. We establish long-term relationships with our clients through positive results, not contractual obligations.</p>
-        </div>
+  <div style="padding: 0 30px 250px 30px;">
+    <a id="scrolldown" name="scrolldown"></a>
+    <a id="services" name="services"></a>
+    <div class="row">
+      <div class="section">
+        <h4 class="center thin">SERVICES</h4>
       </div>
+      <div class="divider"></div>
+      <div class="col s12 l4">
+        <h5 class="light">WEB DESIGN & DEVELOPMEMNT</h5>
+        <p class="light text-lighten-1">From simple one-page sites to full wordpress customizations, we build it all.</p>
+        <!--<p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Web users expect sites to load quickly regardless of whether they are using wifi or cellular. Sites also need to look good on any screen size. This is called responsive design. At Technologic, we build every site to be responsive from the ground up.</p>-->
+      </div>
+      <div class="col s12 l4">
+        <h5 class="light">SEARCH ENGINE OPTIMIZATION</h5>
+        <p class="light text-lighten-1">Rank first on search. Enough said.</p>
+      </div>
+      <div class="col s12 l4">
+        <h5 class="light">ONLINE MARKETING</h5>
+        <p class="light text-lighten-1">We deliver the higest value per dollar. Advertise across any online platform.</p>
+        <!--<p>We work directly on behalf of your business to produce the best return on advertising investment possible. We provide month to month <strong>obligation free</strong> service. We establish long-term relationships with our clients through positive results, not contractual obligations.</p>-->
+      </div>
+      <div class="col s12 l4">
+        <h5 class="light">E-COMMERCE INTEGRATION</h5>
+        <p class="light text-lighten-1">Fulfill every order, slash overhead, and manage inventory like a pro.</p>
+      </div>
+      <div class="col s12 l4">
+        <h5 class="light">FIFTH SERVICE OFFERING</h5>
+        <p class="light text-lighten-1">Brief description of the fifth service offered by Technologic.</p>
+      </div>
+      <div class="col s12 l4">
+        <h5 class="light">SIXTH SERVICE OFFERING</h5>
+        <p class="light text-lighten-1">Brief description of the sixth service offered by Technologic.</p>
+      </div>
+
     </div>
   </div>
 
 
   <!--work section-->
-<div class="section" style="background-color: #f7f7f7;">
+<div class="" style="background-color: #f7f7f7; padding: 0 10px 120px 10px;">
+  <a id="work" name="work"></a>
   <div class="row">
-    <div class="section center">
-      <h4 class="center light">WORK</h4>
+    <div class="section">
+      <h4 class="center thin">WORK</h4>
     </div>
-    <div class="col s6">
+    <div class="col s6" style="padding: 0 10px 12px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
     </div>
-    <div class="col s6">
+    <div class="col s6" style="padding: 0 10px 12px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.png">
     </div>
-    <div class="col s6">
+    <div class="col s6" style="padding: 0 10px 12px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.png">
     </div>
-    <div class="col s6">
+    <div class="col s6" style="padding: 0 10px 12px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.png">
     </div>
   </div>
@@ -118,27 +140,93 @@
 
   <!--end work section-->
 
+  <!--company section-->
+  <div style="padding: 70px 10px 120px 10px;">
+    <a id="about" name="about"></a>
+    <div class="row">
+      <div class="section">
+        <h4 class="center thin">ABOUT</h4>
+      </div>
+      <div class="col s4">
+          <img class="z-depth-3 responsive-img hoverable" src="./img/on_the_go.jpg">
+      </div>
+      <div class="col s4">
+          <img style="background-color: #367DB3;" class="z-depth-3 responsive-img hoverable" src="./img/tl_logo_center.png">
+      </div>
+      <div class="col s4">
+          <img class="z-depth-3 responsive-img hoverable" src="./img/metrics.png">
+      </div>
+      <div class="col s12">
+        <p class="light text-lighten-1">Brief description of Technologic.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="parallax-container" style="height: 350px;">
+    <div class="parallax"><img src="./img/raccoon.jpg"></div>
+    <div class="slider">
+      <ul class="slides">
+        <li>
+          <img src="./img/Clear.png">
+          <div class="caption-default">
+            <h5 class=" light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            <p>- Andy Berke</p>
+            <p>- Mayor of Chattanooga</p>
+          </div>
+        </li>
+        <li>
+          <img src="./img/Clear.png">
+          <div class="caption-default center-align">
+            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+          </div>
+        </li>
+        <li>
+          <img src="./img/Clear.png">
+          <div class="caption-default center-align">
+            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+          </div>
+        </li>
+        <li>
+          <img src="./img/Clear.png">
+          <div class="caption-default center-align">
+            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+          </div>
+        </li>
+        <li>
+          <img src="./img/Clear.png">
+          <div class="caption-default center-align">
+            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!--end company section-->
+
+
   <!--team section-->
-  <div class="section">
+  <div class="container" style="padding: 10px 0 50px 0;">
+    <a id="team" name="team"></a>
     <div class="row">
       <div class="section center">
-        <div class="section">
-          <h4 class="center light">TEAM</h4>
-        </div>
+          <h4 class="center thin">TEAM</h4>
       </div>
-      <div class="col s12 l4 center">
+      <div class="divider"></div>
+      <div style="padding: 15px 0;"></div> <!--maybe find a more elegant way to do this-->
+      <div class="col s12 center">
         <div class="section">
           <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/chrome-trex-dinosaur.jpg">
           <p>Greggasarous Wiley</p>
         </div>
       </div>
-      <div class="col s12 l4 center">
+      <div class="col s12 center">
         <div class="section">
           <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/Mallory_crop.png">
           <p>Mallory Nelson</p>
         </div>
       </div>
-      <div class="col s12 l4 center">
+      <div class="col s12 center">
         <div class="section">
           <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/cole_crop.png">
           <p>Cole Montalvo</p>
