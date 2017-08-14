@@ -101,16 +101,16 @@
     <div class="section">
       <h4 class="center thin">WORK</h4>
     </div>
-    <div class="col s6" style="padding: 0 10px 12px 10px;">
+    <div class="col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
     </div>
-    <div class="col s6" style="padding: 0 10px 12px 10px;">
+    <div class="col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.png">
     </div>
-    <div class="col s6" style="padding: 0 10px 12px 10px;">
+    <div class="col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.png">
     </div>
-    <div class="col s6" style="padding: 0 10px 12px 10px;">
+    <div class="col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.png">
     </div>
   </div>
@@ -130,7 +130,7 @@
           <img class="z-depth-3 responsive-img hoverable" src="./img/on_the_go.jpg">
         </div>
         <div class="col s4">
-          <img style="background-color: #367DB3;" class="z-depth-3 responsive-img hoverable" src="./img/tl_logo_center.png">
+          <img style="background-color: #7cc1f7;" class="z-depth-3 responsive-img hoverable" src="./img/Technologic_logo_white_crop.png">
         </div>
         <div class="col s4">
           <img class="z-depth-3 responsive-img hoverable" src="./img/metrics.png">
@@ -192,22 +192,32 @@
       </div>
       <div class="divider"></div>
       <div style="padding: 15px 0;"></div> <!--maybe find a more elegant way to do this-->
-      <div class="col s12 center">
+      <div class="col s12 xl6 center">
         <div class="section">
           <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/gw_suit.png">
-          <p>Greggasarous Wiley</p>
+          <p class="light">Greggory Wiley</p>
+          <em class="thin">owner / supreme leader</em>
         </div>
       </div>
-      <div class="col s12 center">
+      <div class="col s12 xl6 center">
         <div class="section">
           <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/Mallory_crop.png">
-          <p>Mallory Nelson</p>
+          <p class="light">Mallory Nelson</p>
+          <em class="thin">graphic designer / advertising princess</em>
         </div>
       </div>
-      <div class="col s12 center">
+      <div class="col s12 xl6 center">
         <div class="section">
-          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/cole_crop.png">
-          <p>Cole Montalvo</p>
+          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/cole.jpg">
+          <p class="light">Cole Montalvo</p>
+          <em class="thin">developer / software neurosurgeon</em>
+        </div>
+      </div>
+      <div class="col s12 xl6 center">
+        <div class="section">
+          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/jaycie.jpg">
+          <p class="light">Jaycie Kelly</p>
+          <em class="thin">intern / minion</em>
         </div>
       </div>
     </div>
