@@ -1,52 +1,31 @@
 <?php include("header_main.php"); ?>
 
 <!--fullscreen slider intro image-->
-<div id="banner" class="parallax-container">
-  <div class="parallax"><img src="./img/walnut_st_bridge_filter_cropped.png"></div>
+<div id="banner" class="parallax-container fullscreen">
+  <div class="parallax"><!--<img src="./img/walnut_st_bridge_filter_cropped.png">--></div>
   <div class="slider fullscreen">
     <ul class="slides">
-      <li>
-        <img src="./img/Clear.png">
-        <div class="caption left-align">
-          <h1 class="shadow2 light heading">DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
-          <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
-        </div>
-      </li>
-      <!--<li>
-        <img src="./img/Clear.png">
-        <div class="caption left-align">
-          <h2 class="shadow2 light heading">WEB DESIGN & DEVELOPMEMNT</h2>
-          <h5 class="light text-lighten-3 shadow2">From simple one-page sites to full wordpress customizations, we build it all.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="./img/Clear.png">
-        <div class="caption left-align">
-          <h2 class="shadow2 light heading">SEARCH ENGINE OPTIMIZATION</h2>
-          <h5 class="light text-lighten-3 shadow2">Rank first on search. Enough said.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="./img/Clear.png">
-        <div class="caption left-align">
-          <h2 class="shadow2 light heading">ONLINE MARKETING</h2>
-          <h5 class="light text-lighten-3 shadow2">We deliver the higest value per dollar. Advertise across any online platform.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="./img/Clear.png">
-        <div class="caption left-align">
-          <h2 class="shadow2 light heading">ECOMMERCE INTEGRATION</h2>
-          <h5 class="light text-lighten-3 shadow2">Fulfill every order, slash overhead, and manage inventory like a pro.</h5>
-        </div>
-      </li>-->
-    </ul>
-  </div>
-  <div class=" logo-wrapper">
-    <img src="./img/technologic_square_white_logo.png">
-  </div>
-  <div id="scrollLink" href="#" class="scroll-wrapper">
-    <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
+      <li><img src="./img/walnut_st_bridge_filter_cropped.png"></li>
+      <li><img src="./img/snoopers.jpg"></li>
+      <li><img src="./img/rooftop.jpg"></li>
+      <li><img src="./img/aquarium.jpg"></li>
+      <li><img src="./img/dam.jpg"></li>
+      <li><img src="./img/miller.jpg"></li>
+    <div>
+      <div class="caption-wrapper left-align">
+        <h1 class="shadow2 light heading">DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
+        <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
+      </div>
+
+      <div class="logo-wrapper">
+        <img src="./img/technologic_square_white_logo.png">
+      </div>
+
+      <div id="scrollLink" href="#" class="scroll-wrapper">
+        <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
+      </div>
+    </div>
+        </ul>
   </div>
 </div>
 <!--end of fullscreen slider-->
@@ -163,39 +142,38 @@
       </div>
     </div>
 
-    <div class="parallax-container" style="height: 350px;">
+    <div class="parallax-container">
       <div class="parallax"><img src="./img/raccoon.jpg"></div>
       <div class="slider">
         <ul class="slides">
           <li>
             <img src="./img/Clear.png">
-            <div class="caption-default center-align">
+            <div class="caption center-align">
               <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-              <p>- Andy Berke</p>
-              <p>- Mayor of Chattanooga</p>
+              <p>Andy Berke  - Mayor of Chattanooga</p>
             </div>
           </li>
           <li>
             <img src="./img/Clear.png">
-            <div class="caption-default center-align">
-              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-            </div>
-          </li>
-          <li>
-            <img src="./img/Clear.png">
-            <div class="caption-default center-align">
+            <div class="caption center-align">
               <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
             </div>
           </li>
           <li>
             <img src="./img/Clear.png">
-            <div class="caption-default center-align">
+            <div class="caption center-align">
               <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
             </div>
           </li>
           <li>
             <img src="./img/Clear.png">
-            <div class="caption-default center-align">
+            <div class="caption center-align">
+              <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            </div>
+          </li>
+          <li>
+            <img src="./img/Clear.png">
+            <div class="caption center-align">
               <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
             </div>
           </li>
