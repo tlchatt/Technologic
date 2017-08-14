@@ -3,7 +3,7 @@
 <!--fullscreen slider intro image-->
 <div id="banner" class="parallax-container fullscreen">
   <div class="parallax"><!--<img src="./img/walnut_st_bridge_filter_cropped.png">--></div>
-  <div class="slider fullscreen">
+  <div class="slider slider1 fullscreen">
     <ul class="slides">
       <li><img src="./img/walnut_st_bridge_filter_cropped.png"></li>
       <li><img src="./img/snoopers.jpg"></li>
@@ -144,7 +144,7 @@
 
     <div class="parallax-container">
       <div class="parallax"><img src="./img/raccoon.jpg"></div>
-      <div class="slider">
+      <div class="slider slider2">
         <ul class="slides">
           <li>
             <img src="./img/Clear.png">
