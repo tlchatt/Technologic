@@ -217,7 +217,7 @@
       <div style="padding: 15px 0;"></div> <!--maybe find a more elegant way to do this-->
       <div class="col s12 center">
         <div class="section">
-          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/chrome-trex-dinosaur.jpg">
+          <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/gw_suit.png">
           <p>Greggasarous Wiley</p>
         </div>
       </div>
