@@ -1,5 +1,6 @@
 
 <div class="row">
+  <a id="footer" name="footer"></a>
   <!-- Modal Structure -->
   <div id="map-modal" class="modal bottom-sheet">
     <div class="modal-content">
