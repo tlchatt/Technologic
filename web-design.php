@@ -55,7 +55,7 @@
 
 
   <!--services section-->
-  <div style="padding: 0 30px 250px 30px;">
+  <div style="padding: 0 30px 210px 30px;">
     <a id="scrolldown" name="scrolldown"></a>
     <a id="services" name="services"></a>
     <div class="row">
@@ -210,7 +210,7 @@
         <div class="section">
           <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/cole.jpg">
           <p class="light">Cole Montalvo</p>
-          <em class="thin">developer / software neurosurgeon</em>
+          <em class="thin">developer / software breaker</em>
         </div>
       </div>
       <div class="col s12 xl6 center">
