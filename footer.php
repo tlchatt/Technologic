@@ -65,31 +65,31 @@
   <div class="section">
     <h4 id="footerTitle" class="invisible center thin">GET IN TOUCH</h4>
   </div>
-  <div class="center">
+  <div id="footerImg" class="invisible center">
     <img class="z-depth-2 circle" style="height: 75px; width: 75px;" src="./img/gw_suit.png">
     <p class="light">Have questions? Give Greg a call.</p>
     <p class="thin" href="tel:423-123-4567">(423) 123 - 4567</p>
   </div>
 
   <div class="row section">
-    <div class="col s12 m4 center" href="map#"><p>736 Georgia Ave, Chattanooga, TN 37402</p></div>
-    <div class="col s12 m4 center" href="phone"><p>modal</p></div>
-    <div class="col s12 m4 center" href="email#"><p>something@tlchatt.com</p></div>
+    <div id="footerTxt1" class="invisible col s12 m4 center" href="map#"><p>736 Georgia Ave, Chattanooga, TN 37402</p></div>
+    <div id="footerTxt2" class="invisible col s12 m4 center" href="phone"><p>modal</p></div>
+    <div id="footerTxt3" class="invisible col s12 m4 center" href="email#"><p>something@tlchatt.com</p></div>
   </div>
 
   <div class="container section" style="width: 25%; padding: 60px 0;">
     <div class="row">
-      <div class="col s4 center-align">
+      <div id="footerSocial1" class="invisible col s4 center-align">
         <div class=" circle hoverable valign-wrapper" style="height: 50px; width: 50px; background-color: #f7f7f7; justify-content: center; margin-right: 0;">
           <i class="fa fa-facebook fa-2x grey-text darken-3" aria-hidden="true"></i>
         </div>
       </div>
-      <div class="col s4 center-align">
+      <div id="footerSocial2" class="invisible col s4 center-align">
         <div class=" circle hoverable valign-wrapper" style="height: 50px; width: 50px; background-color: #f7f7f7; justify-content: center; margin-right: 0;">
           <i class="fa fa-google fa-2x grey-text darken-3" aria-hidden="true"></i>
         </div>
       </div>
-      <div class="col s4 center-align">
+      <div id="footerSocial3" class="invisible col s4 center-align">
         <div class=" circle hoverable valign-wrapper" style="height: 50px; width: 50px; background-color: #f7f7f7; justify-content: center; margin-right: 0;">
           <i class="fa fa-instagram fa-2x grey-text darken-3" aria-hidden="true"></i>
         </div>

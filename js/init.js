@@ -19,6 +19,10 @@
         $('#servicesTitle').addClass("animated fadeInUp");
         $('#servicesTitle').removeClass("invisible");
       } },
+      {selector: '#servicesDiv', offset: 300, callback: function(el) {
+        $('#servicesDiv').addClass("animated fadeInUp");
+        $('#servicesDiv').removeClass("invisible");
+      } },
       {selector: '#servicesOffering1', offset: 300, callback: function(el) {
         $('#servicesOffering1').addClass("animated fadeInUp");
         $('#servicesOffering1').removeClass("invisible");
@@ -82,16 +86,73 @@
         $('#aboutImg3').addClass("animated fadeInUp");
         $('#aboutImg3').removeClass("invisible");
       } },
+      {selector: '#aboutTxt1', offset: 200, callback: function(el) {
+        $('#aboutTxt1').addClass("animated fadeInUp");
+        $('#aboutTxt1').removeClass("invisible");
+      } },
+      {selector: '#aboutTxt2', offset: 200, callback: function(el) {
+        $('#aboutTxt2').addClass("animated fadeInUp");
+        $('#aboutTxt2').removeClass("invisible");
+      } },
 
   //team
       {selector: '#teamTitle', offset: 300, callback: function(el) {
         $('#teamTitle').addClass("animated fadeInUp");
         $('#teamTitle').removeClass("invisible");
       } },
+      {selector: '#teamDiv', offset: 300, callback: function(el) {
+        $('#teamDiv').addClass("animated fadeInUp");
+        $('#teamDiv').removeClass("invisible");
+      } },
+      {selector: '#team1', offset: 300, callback: function(el) {
+        $('#team1').addClass("animated fadeInUp");
+        $('#team1').removeClass("invisible");
+      } },
+      {selector: '#team2', offset: 250, callback: function(el) {
+        $('#team2').addClass("animated fadeInUp");
+        $('#team2').removeClass("invisible");
+      } },
+      {selector: '#team3', offset: 250, callback: function(el) {
+        $('#team3').addClass("animated fadeInUp");
+        $('#team3').removeClass("invisible");
+      } },
+      {selector: '#team4', offset: 300, callback: function(el) {
+        $('#team4').addClass("animated fadeInUp");
+        $('#team4').removeClass("invisible");
+      } },
 
-      {selector: '#footerTitle', offset: 300, callback: function(el) {
+  //footer
+      {selector: '#footerTitle', offset: 200, callback: function(el) {
         $('#footerTitle').addClass("animated fadeInUp");
         $('#footerTitle').removeClass("invisible");
+      } },
+      {selector: '#footerImg', offset: 200, callback: function(el) {
+        $('#footerImg').addClass("animated fadeInUp");
+        $('#footerImg').removeClass("invisible");
+      } },
+      {selector: '#footerTxt1', offset: 100, callback: function(el) {
+        $('#footerTxt1').addClass("animated fadeInUp");
+        $('#footerTxt1').removeClass("invisible");
+      } },
+      {selector: '#footerTxt2', offset: 100, callback: function(el) {
+        $('#footerTxt2').addClass("animated fadeInUp");
+        $('#footerTxt2').removeClass("invisible");
+      } },
+      {selector: '#footerTxt3', offset: 100, callback: function(el) {
+        $('#footerTxt3').addClass("animated fadeInUp");
+        $('#footerTxt3').removeClass("invisible");
+      } },
+      {selector: '#footerSocial1', offset: 10, callback: function(el) {
+        $('#footerSocial1').addClass("animated fadeInUp");
+        $('#footerSocial1').removeClass("invisible");
+      } },
+      {selector: '#footerSocial2', offset: 100, callback: function(el) {
+        $('#footerSocial2').addClass("animated fadeInUp");
+        $('#footerSocial2').removeClass("invisible");
+      } },
+      {selector: '#footerSocial3', offset: 50, callback: function(el) {
+        $('#footerSocial3').addClass("animated fadeInUp");
+        $('#footerSocial3').removeClass("invisible");
       } }
     ];
     Materialize.scrollFire(options);
