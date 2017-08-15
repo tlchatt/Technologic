@@ -8,6 +8,7 @@
   <!-- CSS  -->
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/font-awesome.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="css/animate.css">
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
   <!--favicons-->

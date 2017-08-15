@@ -12,7 +12,34 @@
 
     }); // end of document ready
 
+    //scrollfire mess
+    var options = [
+      {selector: '#servicesTitle', offset: 400, callback: function(el) {
+        $('#servicesTitle').addClass("animated fadeInUp");
+        $('#servicesTitle').removeClass("invisible");
+      } },
 
+      {selector: '#workTitle', offset: 400, callback: function(el) {
+        $('#workTitle').addClass("animated fadeInUp");
+        $('#workTitle').removeClass("invisible");
+      } },
+
+      {selector: '#aboutTitle', offset: 400, callback: function(el) {
+        $('#aboutTitle').addClass("animated fadeInUp");
+        $('#aboutTitle').removeClass("invisible");
+      } },
+
+      {selector: '#teamTitle', offset: 400, callback: function(el) {
+        $('#teamTitle').addClass("animated fadeInUp");
+        $('#teamTitle').removeClass("invisible");
+      } },
+
+      {selector: '#footerTitle', offset: 300, callback: function(el) {
+        $('#footerTitle').addClass("animated fadeInUp");
+        $('#footerTitle').removeClass("invisible");
+      } }
+    ];
+    Materialize.scrollFire(options);
 
 
     //control nav scrolling

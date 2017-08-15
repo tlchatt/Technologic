@@ -5,7 +5,9 @@ $TL-offwhite: #f7f7f7;
 $TL-dark: #333;
 
 
-
+.invisible {
+  visibility: hidden;
+}
 
 
 //pretty drop shadow (materialize only has box shadows)

@@ -22,7 +22,7 @@
         </div>
 
         <div id="scrollLink" href="#" class="scroll-wrapper">
-          <i class="hoverable-flat-scroll material-icons shadow2">expand_more</i>
+          <i class="fa fa-angle-down hoverable-flat-scroll shadow2" aria-hidden="true"></i>
         </div>
       </div>
 
@@ -60,7 +60,7 @@
   <a id="services" name="services"></a>
   <div class="row">
     <div class="section">
-      <h4 class="center thin">SERVICES</h4>
+      <h4 id="servicesTitle" class="center thin invisible">SERVICES</h4>
     </div>
     <div class="divider"></div>
     <div class="col s12 l4">
@@ -99,7 +99,7 @@
   <a id="work" name="work"></a>
   <div class="row">
     <div class="section">
-      <h4 class="center thin">WORK</h4>
+      <h4 id="workTitle" class="invisible center thin">WORK</h4>
     </div>
     <div class="col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
@@ -124,7 +124,7 @@
     <a id="about" name="about"></a>
     <div class="row" style="margin-bottom: 0px;">
       <div class="section">
-        <h4 class="center thin">ABOUT</h4>
+        <h4 id="aboutTitle" class="invisible center thin">ABOUT</h4>
       </div>
       <div class="col s4">
         <img class="z-depth-3 responsive-img hoverable" src="./img/on_the_go.jpg">
@@ -195,7 +195,7 @@
   <a id="team" name="team"></a>
   <div class="row">
     <div class="section center">
-      <h4 class="center thin">TEAM</h4>
+      <h4 id="teamTitle" class="invisible center thin">TEAM</h4>
     </div>
     <div class="divider"></div>
     <div style="padding: 15px 0;"></div> <!--maybe find a more elegant way to do this-->

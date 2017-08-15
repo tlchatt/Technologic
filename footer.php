@@ -63,7 +63,7 @@
 
 <footer class="page-footer no-padding" style="background-color: #333;">
   <div class="section">
-    <h4 class="center thin">GET IN TOUCH</h4>
+    <h4 id="footerTitle" class="invisible center thin">GET IN TOUCH</h4>
   </div>
   <div class="center">
     <img class="z-depth-2 circle" style="height: 75px; width: 75px;" src="./img/gw_suit.png">
@@ -79,19 +79,19 @@
 
   <div class="container section" style="width: 25%; padding: 60px 0;">
     <div class="row">
-      <div class="col s4 center">
-        <div class="circle hoverable lighten-3" style="height: 50px; width: 50px;">
-          <i class="fa fa-facebook" aria-hidden="true"></i>
+      <div class="col s4 center-align">
+        <div class=" circle hoverable valign-wrapper" style="height: 50px; width: 50px; background-color: #f7f7f7; justify-content: center; margin-right: 0;">
+          <i class="fa fa-facebook fa-2x grey-text darken-3" aria-hidden="true"></i>
         </div>
       </div>
-      <div class="col s4 center">
-        <div class="circle hoverable lighten-3" style="height: 50px; width: 50px;">
-          <i class="fa fa-google-plus" aria-hidden="true"></i>
+      <div class="col s4 center-align">
+        <div class=" circle hoverable valign-wrapper" style="height: 50px; width: 50px; background-color: #f7f7f7; justify-content: center; margin-right: 0;">
+          <i class="fa fa-google fa-2x grey-text darken-3" aria-hidden="true"></i>
         </div>
       </div>
-      <div class="col s4 center">
-        <div class="circle hoverable lighten-3" style="height: 50px; width: 50px;">
-          <i class="fa fa-instagram" aria-hidden="true"></i>
+      <div class="col s4 center-align">
+        <div class=" circle hoverable valign-wrapper" style="height: 50px; width: 50px; background-color: #f7f7f7; justify-content: center; margin-right: 0;">
+          <i class="fa fa-instagram fa-2x grey-text darken-3" aria-hidden="true"></i>
         </div>
       </div>
     </div>
