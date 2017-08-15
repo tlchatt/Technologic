@@ -68,13 +68,13 @@
   <div id="footerImg" class="invisible center">
     <img class="z-depth-2 circle" style="height: 75px; width: 75px;" src="./img/gw_suit.png">
     <p class="light">Have questions? Give Greg a call.</p>
-    <p class="thin" href="tel:423-123-4567">(423) 123 - 4567</p>
+    <p class="thin" href="tel:423-377-6111">423.377.6111</p>
   </div>
 
   <div class="row section">
-    <div id="footerTxt1" class="invisible col s12 m4 center" href="map#"><p>736 Georgia Ave, Chattanooga, TN 37402</p></div>
-    <div id="footerTxt2" class="invisible col s12 m4 center" href="phone"><p>modal</p></div>
-    <div id="footerTxt3" class="invisible col s12 m4 center" href="email#"><p>something@tlchatt.com</p></div>
+    <div id="footerTxt1" class="invisible col s12 m4 center light" href="map#"><p>736 Georgia Ave, Chattanooga, TN 37402</p></div>
+    <div id="footerTxt2" class="invisible col s12 m4 center light" href="phone"><p></p></div>
+    <div id="footerTxt3" class="invisible col s12 m4 center light" href="mailto:gw@tlchatt.com"><p>gw@tlchatt.com</p></div>
   </div>
 
   <div class="container section" style="width: 25%; padding: 60px 0;">

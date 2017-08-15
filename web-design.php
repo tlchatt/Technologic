@@ -82,14 +82,14 @@
         <h5 class="light">E-COMMERCE INTEGRATION</h5>
         <p class="light text-lighten-1">Fulfill every order, slash overhead, and manage inventory like a pro.</p>
       </div>
-      <div id="servicesOffering5" class="invisible col s12 l4">
+      <!--<div id="servicesOffering5" class="invisible col s12 l4">
         <h5 class="light">FIFTH SERVICE OFFERING</h5>
         <p class="light text-lighten-1">Brief description of the fifth service offered by Technologic.</p>
       </div>
       <div id="servicesOffering6" class="invisible col s12 l4">
         <h5 class="light">SIXTH SERVICE OFFERING</h5>
         <p class="light text-lighten-1">Brief description of the sixth service offered by Technologic.</p>
-      </div>
+      </div>-->
     </div>
   </div>
 </div>
@@ -153,7 +153,7 @@
     <div class="parallax"><img src="./img/snoopers.jpg"></div>
     <div class="slider">
       <ul class="slides">
-        <li>
+        <!--<li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
             <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
@@ -183,7 +183,7 @@
           <div class="caption center-align">
             <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
           </div>
-        </li>
+        </li>-->
       </ul>
     </div>
   </div>
