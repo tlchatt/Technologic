@@ -79,9 +79,21 @@
 
   <div class="container section" style="width: 25%; padding: 60px 0;">
     <div class="row">
-      <div class="col s4 center"><i class="ionicon-font circle hoverable lighten-3" style="height: 50px; width: 50px;">ion-social-</i></div>
-      <div class="col s4 center"><i class="ionicon-font circle hoverable lighten-3" style="height: 50px; width: 50px;">ion-social-</i></div>
-      <div class="col s4 center"><i class="ionicon-font circle hoverable lighten-3" style="height: 50px; width: 50px;">ion-social-</i></div>
+      <div class="col s4 center">
+        <div class="circle hoverable lighten-3" style="height: 50px; width: 50px;">
+          <i class="fa fa-facebook" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col s4 center">
+        <div class="circle hoverable lighten-3" style="height: 50px; width: 50px;">
+          <i class="fa fa-google-plus" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="col s4 center">
+        <div class="circle hoverable lighten-3" style="height: 50px; width: 50px;">
+          <i class="fa fa-instagram" aria-hidden="true"></i>
+        </div>
+      </div>
     </div>
   </div>
 
