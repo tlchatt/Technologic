@@ -6,7 +6,7 @@
     <div class="modal-content">
       <h4>Modal Header</h4>
       <p>A bunch of text</p>
-      <iframe class="center-block" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52269.34819526641!2d-85.33948668669117!3d35.03587594773376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88605dd7e5f9a2cd%3A0xb69da93d01ad7b2e!2sThe+Flying+Squirrel+Bar!5e0!3m2!1sen!2sus!4v1472656191316" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe class="center-block" src="" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
     <div class="modal-footer">
       <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
