@@ -63,29 +63,29 @@
       <h4 id="servicesTitle" class="center thin invisible">SERVICES</h4>
     </div>
     <div class="divider"></div>
-    <div class="col s12 l4">
+    <div id="servicesOffering1" class="invisible col s12 l4">
       <h5 class="light">WEB DESIGN & DEVELOPMEMNT</h5>
       <p class="light text-lighten-1">From simple one-page sites to full wordpress customizations, we build it all.</p>
       <!--<p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Web users expect sites to load quickly regardless of whether they are using wifi or cellular. Sites also need to look good on any screen size. This is called responsive design. At Technologic, we build every site to be responsive from the ground up.</p>-->
     </div>
-    <div class="col s12 l4">
+    <div id="servicesOffering2" class="invisible col s12 l4">
       <h5 class="light">SEARCH ENGINE OPTIMIZATION</h5>
       <p class="light text-lighten-1">Rank first on search. Enough said.</p>
     </div>
-    <div class="col s12 l4">
+    <div id="servicesOffering3" class="invisible col s12 l4">
       <h5 class="light">ONLINE MARKETING</h5>
       <p class="light text-lighten-1">We deliver the higest value per dollar. Advertise across any online platform.</p>
       <!--<p>We work directly on behalf of your business to produce the best return on advertising investment possible. We provide month to month <strong>obligation free</strong> service. We establish long-term relationships with our clients through positive results, not contractual obligations.</p>-->
     </div>
-    <div class="col s12 l4">
+    <div id="servicesOffering4" class="invisible col s12 l4">
       <h5 class="light">E-COMMERCE INTEGRATION</h5>
       <p class="light text-lighten-1">Fulfill every order, slash overhead, and manage inventory like a pro.</p>
     </div>
-    <div class="col s12 l4">
+    <div id="servicesOffering5" class="invisible col s12 l4">
       <h5 class="light">FIFTH SERVICE OFFERING</h5>
       <p class="light text-lighten-1">Brief description of the fifth service offered by Technologic.</p>
     </div>
-    <div class="col s12 l4">
+    <div id="servicesOffering6" class="invisible col s12 l4">
       <h5 class="light">SIXTH SERVICE OFFERING</h5>
       <p class="light text-lighten-1">Brief description of the sixth service offered by Technologic.</p>
     </div>
@@ -95,22 +95,22 @@
 
 
 <!--work section-->
-<div class="" style="background-color: #f7f7f7; padding: 0 10px 120px 10px;">
+<div style="background-color: #f7f7f7; padding: 0 10px 120px 10px;">
   <a id="work" name="work"></a>
   <div class="row">
     <div class="section">
       <h4 id="workTitle" class="invisible center thin">WORK</h4>
     </div>
-    <div class="col s6" style="padding: 0 10px 15px 10px;">
+    <div id="workImg1" class="invisible col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
     </div>
-    <div class="col s6" style="padding: 0 10px 15px 10px;">
+    <div id="workImg2" class="invisible col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.png">
     </div>
-    <div class="col s6" style="padding: 0 10px 15px 10px;">
+    <div id="workImg3" class="invisible col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.png">
     </div>
-    <div class="col s6" style="padding: 0 10px 15px 10px;">
+    <div id="workImg4" class="invisible col s6" style="padding: 0 10px 15px 10px;">
       <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.png">
     </div>
   </div>
@@ -126,13 +126,13 @@
       <div class="section">
         <h4 id="aboutTitle" class="invisible center thin">ABOUT</h4>
       </div>
-      <div class="col s4">
+      <div id="aboutImg1" class="invisible col s4">
         <img class="z-depth-3 responsive-img hoverable" src="./img/on_the_go.jpg">
       </div>
-      <div class="col s4">
+      <div id="aboutImg2" class="invisible col s4">
         <img style="background-color: #7cc1f7;" class="z-depth-3 responsive-img hoverable" src="./img/Technologic_logo_white_crop.png">
       </div>
-      <div class="col s4">
+      <div id="aboutImg3" class="invisible col s4">
         <img class="z-depth-3 responsive-img hoverable" src="./img/metrics.png">
       </div>
       <div class="col s12">
