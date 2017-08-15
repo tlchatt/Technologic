@@ -14,22 +14,22 @@
 
     //scrollfire mess
     var options = [
-      {selector: '#servicesTitle', offset: 400, callback: function(el) {
+      {selector: '#servicesTitle', offset: 300, callback: function(el) {
         $('#servicesTitle').addClass("animated fadeInUp");
         $('#servicesTitle').removeClass("invisible");
       } },
 
-      {selector: '#workTitle', offset: 400, callback: function(el) {
+      {selector: '#workTitle', offset: 300, callback: function(el) {
         $('#workTitle').addClass("animated fadeInUp");
         $('#workTitle').removeClass("invisible");
       } },
 
-      {selector: '#aboutTitle', offset: 400, callback: function(el) {
+      {selector: '#aboutTitle', offset: 300, callback: function(el) {
         $('#aboutTitle').addClass("animated fadeInUp");
         $('#aboutTitle').removeClass("invisible");
       } },
 
-      {selector: '#teamTitle', offset: 400, callback: function(el) {
+      {selector: '#teamTitle', offset: 300, callback: function(el) {
         $('#teamTitle').addClass("animated fadeInUp");
         $('#teamTitle').removeClass("invisible");
       } },
