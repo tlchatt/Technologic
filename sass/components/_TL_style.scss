@@ -5,6 +5,21 @@ $TL-offwhite: #f7f7f7;
 $TL-dark: #333;
 
 
+@font-face {
+  font-family: 'ionicons';
+  src: local(Ionicons),
+       url('../fonts/ionicons/ionicons.eot') /* IE9 Compat Modes */
+       url('../fonts/ionicons/ionicons.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/ionicons/ionicons.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/ionicons/ionicons.svg') format('svg'); /* Legacy iOS */
+}
+
+.ionicon-font {
+  font-family: ionicons;
+}
+
+
+
 
 //pretty drop shadow (materialize only has box shadows)
 .shadow {
