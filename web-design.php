@@ -13,7 +13,7 @@
     </ul>
     <div>
       <div class="caption-wrapper left-align">
-        <h1 class="shadow2 light heading">DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
+        <h1 class="shadow2 light heading">WEB DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
         <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
       </div>
 
