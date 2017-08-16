@@ -5,7 +5,7 @@
       $('.parallax').parallax();
       $('.slider').slider({
         indicators: false,
-        interval: 6000,
+        interval: 3000,
         transition: 2000
       });
 
@@ -15,27 +15,27 @@
     //scrollfire mess
     var options = [
   //services
-      {selector: '#servicesTitle', offset: 300, callback: function(el) {
+      {selector: '#servicesTitle', offset: 150, callback: function(el) {
         $('#servicesTitle').addClass("animated fadeInUp");
         $('#servicesTitle').removeClass("invisible");
       } },
-      {selector: '#servicesDiv', offset: 300, callback: function(el) {
+      {selector: '#servicesDiv', offset: 150, callback: function(el) {
         $('#servicesDiv').addClass("animated fadeInUp");
         $('#servicesDiv').removeClass("invisible");
       } },
-      {selector: '#servicesOffering1', offset: 300, callback: function(el) {
+      {selector: '#servicesOffering1', offset: 150, callback: function(el) {
         $('#servicesOffering1').addClass("animated fadeInUp");
         $('#servicesOffering1').removeClass("invisible");
       } },
-      {selector: '#servicesOffering2', offset: 250, callback: function(el) {
+      {selector: '#servicesOffering2', offset: 175, callback: function(el) {
         $('#servicesOffering2').addClass("animated fadeInUp");
         $('#servicesOffering2').removeClass("invisible");
       } },
-      {selector: '#servicesOffering3', offset: 350, callback: function(el) {
+      {selector: '#servicesOffering3', offset: 200, callback: function(el) {
         $('#servicesOffering3').addClass("animated fadeInUp");
         $('#servicesOffering3').removeClass("invisible");
       } },
-      {selector: '#servicesOffering4', offset: 300, callback: function(el) {
+      {selector: '#servicesOffering4', offset: 225, callback: function(el) {
         $('#servicesOffering4').addClass("animated fadeInUp");
         $('#servicesOffering4').removeClass("invisible");
       } },
@@ -43,90 +43,90 @@
         $('#servicesOffering5').addClass("animated fadeInUp");
         $('#servicesOffering5').removeClass("invisible");
       } },
-      {selector: '#servicesOffering6', offset: 350, callback: function(el) {
+      {selector: '#servicesOffering6', offset: 275, callback: function(el) {
         $('#servicesOffering6').addClass("animated fadeInUp");
         $('#servicesOffering6').removeClass("invisible");
       } },
   //work
-      {selector: '#workTitle', offset: 300, callback: function(el) {
+      {selector: '#workTitle', offset: 150, callback: function(el) {
         $('#workTitle').addClass("animated fadeInUp");
         $('#workTitle').removeClass("invisible");
       } },
-      {selector: '#workImg1', offset: 300, callback: function(el) {
+      {selector: '#workImg1', offset: 150, callback: function(el) {
         $('#workImg1').addClass("animated fadeInUp");
         $('#workImg1').removeClass("invisible");
       } },
-      {selector: '#workImg2', offset: 250, callback: function(el) {
+      {selector: '#workImg2', offset: 200, callback: function(el) {
         $('#workImg2').addClass("animated fadeInUp");
         $('#workImg2').removeClass("invisible");
       } },
-      {selector: '#workImg3', offset: 250, callback: function(el) {
+      {selector: '#workImg3', offset: 200, callback: function(el) {
         $('#workImg3').addClass("animated fadeInUp");
         $('#workImg3').removeClass("invisible");
       } },
-      {selector: '#workImg4', offset: 300, callback: function(el) {
+      {selector: '#workImg4', offset: 150, callback: function(el) {
         $('#workImg4').addClass("animated fadeInUp");
         $('#workImg4').removeClass("invisible");
       } },
 
   //about
-      {selector: '#aboutTitle', offset: 300, callback: function(el) {
+      {selector: '#aboutTitle', offset: 150, callback: function(el) {
         $('#aboutTitle').addClass("animated fadeInUp");
         $('#aboutTitle').removeClass("invisible");
       } },
-      {selector: '#aboutImg1', offset: 300, callback: function(el) {
-        $('#aboutImg1').addClass("animated fadeInUp");
+      {selector: '#aboutImg1', offset: 200, callback: function(el) {
+        $('#aboutImg1').addClass("animated fadeInLeft");
         $('#aboutImg1').removeClass("invisible");
       } },
-      {selector: '#aboutImg2', offset: 250, callback: function(el) {
+      {selector: '#aboutImg2', offset: 150, callback: function(el) {
         $('#aboutImg2').addClass("animated fadeInUp");
         $('#aboutImg2').removeClass("invisible");
       } },
-      {selector: '#aboutImg3', offset: 350, callback: function(el) {
-        $('#aboutImg3').addClass("animated fadeInUp");
+      {selector: '#aboutImg3', offset: 250, callback: function(el) {
+        $('#aboutImg3').addClass("animated fadeInRight");
         $('#aboutImg3').removeClass("invisible");
       } },
-      {selector: '#aboutTxt1', offset: 200, callback: function(el) {
+      {selector: '#aboutTxt1', offset: 50, callback: function(el) {
         $('#aboutTxt1').addClass("animated fadeInUp");
         $('#aboutTxt1').removeClass("invisible");
       } },
-      {selector: '#aboutTxt2', offset: 200, callback: function(el) {
+      {selector: '#aboutTxt2', offset: 50, callback: function(el) {
         $('#aboutTxt2').addClass("animated fadeInUp");
         $('#aboutTxt2').removeClass("invisible");
       } },
 
   //team
-      {selector: '#teamTitle', offset: 300, callback: function(el) {
+      {selector: '#teamTitle', offset: 150, callback: function(el) {
         $('#teamTitle').addClass("animated fadeInUp");
         $('#teamTitle').removeClass("invisible");
       } },
-      {selector: '#teamDiv', offset: 300, callback: function(el) {
+      {selector: '#teamDiv', offset: 150, callback: function(el) {
         $('#teamDiv').addClass("animated fadeInUp");
         $('#teamDiv').removeClass("invisible");
       } },
-      {selector: '#team1', offset: 300, callback: function(el) {
+      {selector: '#team1', offset: 200, callback: function(el) {
         $('#team1').addClass("animated fadeInUp");
         $('#team1').removeClass("invisible");
       } },
-      {selector: '#team2', offset: 250, callback: function(el) {
+      {selector: '#team2', offset: 150, callback: function(el) {
         $('#team2').addClass("animated fadeInUp");
         $('#team2').removeClass("invisible");
       } },
-      {selector: '#team3', offset: 250, callback: function(el) {
+      {selector: '#team3', offset: 150, callback: function(el) {
         $('#team3').addClass("animated fadeInUp");
         $('#team3').removeClass("invisible");
       } },
-      {selector: '#team4', offset: 300, callback: function(el) {
+      {selector: '#team4', offset: 200, callback: function(el) {
         $('#team4').addClass("animated fadeInUp");
         $('#team4').removeClass("invisible");
       } },
 
   //footer
-      {selector: '#footerTitle', offset: 200, callback: function(el) {
+      {selector: '#footerTitle', offset: 50, callback: function(el) {
         $('#footerTitle').addClass("animated fadeInUp");
         $('#footerTitle').removeClass("invisible");
       } },
-      {selector: '#footerImg', offset: 200, callback: function(el) {
+      {selector: '#footerImg', offset: 50, callback: function(el) {
         $('#footerImg').addClass("animated fadeInUp");
         $('#footerImg').removeClass("invisible");
       } },
@@ -146,7 +146,7 @@
         $('#footerSocial1').addClass("animated fadeInUp");
         $('#footerSocial1').removeClass("invisible");
       } },
-      {selector: '#footerSocial2', offset: 50, callback: function(el) {
+      {selector: '#footerSocial2', offset: 30, callback: function(el) {
         $('#footerSocial2').addClass("animated fadeInUp");
         $('#footerSocial2').removeClass("invisible");
       } },

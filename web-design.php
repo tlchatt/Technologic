@@ -65,21 +65,21 @@
     <div id="servicesDiv" class="invisible divider"></div>
     <div class="section">
       <div id="servicesOffering1" class="invisible col s12 l4">
-        <h5 class="light">WEB DESIGN & DEVELOPMEMNT</h5>
+        <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true"></i>&nbsp;&nbsp;WEB DESIGN & DEVELOPMEMNT</h5>
         <p class="light text-lighten-1">From simple one-page sites to full wordpress customizations, we build it all.</p>
         <!--<p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Web users expect sites to load quickly regardless of whether they are using wifi or cellular. Sites also need to look good on any screen size. This is called responsive design. At Technologic, we build every site to be responsive from the ground up.</p>-->
       </div>
       <div id="servicesOffering2" class="invisible col s12 l4">
-        <h5 class="light">SEARCH ENGINE OPTIMIZATION</h5>
+        <h5 class="light"><i class="fa fa-line-chart" aria-hidden="true"></i>&nbsp;&nbsp;SEARCH ENGINE OPTIMIZATION</h5>
         <p class="light text-lighten-1">Rank first on search. Enough said.</p>
       </div>
       <div id="servicesOffering3" class="invisible col s12 l4">
-        <h5 class="light">ONLINE MARKETING</h5>
+        <h5 class="light"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;&nbsp;ONLINE MARKETING</h5>
         <p class="light text-lighten-1">We deliver the higest value per dollar. Advertise across any online platform.</p>
         <!--<p>We work directly on behalf of your business to produce the best return on advertising investment possible. We provide month to month <strong>obligation free</strong> service. We establish long-term relationships with our clients through positive results, not contractual obligations.</p>-->
       </div>
       <div id="servicesOffering4" class="invisible col s12 l4">
-        <h5 class="light">E-COMMERCE INTEGRATION</h5>
+        <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;E-COMMERCE INTEGRATION</h5>
         <p class="light text-lighten-1">Fulfill every order, slash overhead, and manage inventory like a pro.</p>
       </div>
       <!--<div id="servicesOffering5" class="invisible col s12 l4">
@@ -125,7 +125,7 @@
     <a id="about" name="about"></a>
     <div class="row" style="margin-bottom: 0px;">
       <div class="section">
-        <h4 id="aboutTitle" class="invisible center thin">ABOUT</h4>
+        <h4 id="aboutTitle" class="invisible center thin">ABOUT US</h4>
       </div>
       <div id="aboutImg1" class="invisible col s4">
         <img class="z-depth-3 responsive-img hoverable" src="./img/on_the_go.jpg">
@@ -141,7 +141,7 @@
           <div class="section">
             <div class="section">
               <p id="aboutTxt1" class="invisible light">Technologic is based in Chattanooga, where we enjoy the fastest internet in the country.</p>
-              <p id="aboutTxt2" class="invisible light">We love our work and we know you will too.</p>
+              <p id="aboutTxt2" class="invisible light">We love our work, and we know you will too.</p>
             </div>
           </div>
         </div>
@@ -225,7 +225,7 @@
       <div class="section">
         <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/jaycie.jpg">
         <p class="light">Jaycie Kelly</p>
-        <em class="thin">intern / minion</em>
+        <em class="thin">intern / yes-man</em>
       </div>
     </div>
   </div>
