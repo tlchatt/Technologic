@@ -62,14 +62,26 @@ $TL-dark: #333;
 .scroll-wrapper {
   position: absolute;
   z-index: 997;
-  bottom: 8%;
   width: 100%;
   text-align: center;
 
   i {
     font-size: 60px;
   }
+
+  bottom: 0% !important;
+
+  @media #{$large-and-up} {
+    bottom: 5% !important;
+  }
+  @media #{$medium-only} {
+    bottom: 8% !important;
+  }
+  @media #{$small-and-down} {
+    bottom: 10% !important;
+  }
 }
+
 
 //hero parallax caption positioning
 .caption-wrapper {
