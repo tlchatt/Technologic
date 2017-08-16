@@ -142,15 +142,15 @@
         $('#footerTxt3').addClass("animated fadeInUp");
         $('#footerTxt3').removeClass("invisible");
       } },
-      {selector: '#footerSocial1', offset: 10, callback: function(el) {
+      {selector: '#footerSocial1', offset: 5, callback: function(el) {
         $('#footerSocial1').addClass("animated fadeInUp");
         $('#footerSocial1').removeClass("invisible");
       } },
-      {selector: '#footerSocial2', offset: 100, callback: function(el) {
+      {selector: '#footerSocial2', offset: 50, callback: function(el) {
         $('#footerSocial2').addClass("animated fadeInUp");
         $('#footerSocial2').removeClass("invisible");
       } },
-      {selector: '#footerSocial3', offset: 50, callback: function(el) {
+      {selector: '#footerSocial3', offset: 20, callback: function(el) {
         $('#footerSocial3').addClass("animated fadeInUp");
         $('#footerSocial3').removeClass("invisible");
       } }
