@@ -62,7 +62,7 @@ $TL-dark: #333;
 .scroll-wrapper {
   position: absolute;
   z-index: 997;
-  bottom: 1%;
+  bottom: 8%;
   width: 100%;
   text-align: center;
 
@@ -76,10 +76,21 @@ $TL-dark: #333;
   position: absolute;
   color: #fff;
   z-index: 997;
-  top: 15%;
   left: 7%;
   width: 55%;
   text-align: left;
+
+  top: 15% !important;
+
+  @media #{$large-and-up} {
+    top: 20% !important;
+  }
+  @media #{$medium-only} {
+    top: 15% !important;
+  }
+  @media #{$small-and-down} {
+    top: 8% !important;
+  }
 }
 
 //custom hover styling
