@@ -66,7 +66,7 @@
     <h4 id="footerTitle" class="invisible center thin">GET IN TOUCH</h4>
   </div>
   <div id="footerImg" class="invisible center">
-    <img class="z-depth-2 tl-circle" style="height: 75px; width: 75px;" src="./img/gw_suit.png">
+    <img class="z-depth-2 tl-circle" src="./img/gw_suit.png">
     <p class="light">Have questions? Give Greg a call.</p>
     <p>
       <a href="tel:423-377-6111" class="thin white-text"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp; 423.377.6111</a>
@@ -88,25 +88,25 @@
   <div class="container section" style="width: 25%; padding: 60px 0;">
     <div class="row">
       <div id="footerSocial1" class="invisible col s4 center-align">
-        <div class="tl-circle hoverable-circle hoverable valign-wrapper">
+        <a class="tl-circle hoverable-circle hoverable valign-wrapper" href="https://www.facebook.com/tlchatt/">
           <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-facebook fa-2x" aria-hidden="true"></i>
           <i class="show-on-large hide-on-med-and-down fa fa-facebook fa-3x" aria-hidden="true"></i>
           <i class="show-on-small hide-on-med-and-up fa fa-facebook" aria-hidden="true"></i>
-        </div>
+        </a>
       </div>
       <div id="footerSocial2" class="invisible col s4 center-align">
-        <div class="tl-circle hoverable-circle hoverable valign-wrapper">
+        <a class=" tl-circle hoverable hoverable-circle valign-wrapper" href="https://www.linkedin.com/company/technologic-chattanooga">
+          <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-linkedin fa-2x" aria-hidden="true"></i>
+          <i class="show-on-large hide-on-med-and-down fa fa-linkedin fa-3x" aria-hidden="true"></i>
+          <i class="show-on-small hide-on-med-and-up fa fa-linkedin" aria-hidden="true"></i>
+        </a>
+      </div>
+      <div id="footerSocial3" class="invisible col s4 center-align">
+        <a class="tl-circle hoverable-circle hoverable valign-wrapper" href="https://plus.google.com/+Tlchatt">
           <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-google fa-2x" aria-hidden="true"></i>
           <i class="show-on-large hide-on-med-and-down fa fa-google fa-3x" aria-hidden="true"></i>
           <i class="show-on-small hide-on-med-and-up fa fa-google" aria-hidden="true"></i>
-        </div>
-      </div>
-      <div id="footerSocial3" class="invisible col s4 center-align">
-        <div class=" tl-circle hoverable hoverable-circle valign-wrapper">
-          <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-instagram fa-2x" aria-hidden="true"></i>
-          <i class="show-on-large hide-on-med-and-down fa fa-instagram fa-3x" aria-hidden="true"></i>
-          <i class="show-on-small hide-on-med-and-up fa fa-instagram" aria-hidden="true"></i>
-        </div>
+        </a>
       </div>
     </div>
   </div>
