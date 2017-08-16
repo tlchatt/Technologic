@@ -67,7 +67,7 @@
   </div>
   <div id="footerImg" class="invisible center">
     <img class="z-depth-2 tl-circle" src="./img/gw_suit.png">
-    <p class="light">Have questions? Give Greg a call.</p>
+    <p class="light">Have questions? Give Gregg a call.</p>
     <p>
       <a href="tel:423-377-6111" class="thin white-text"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp; 423.377.6111</a>
     </p>
@@ -110,8 +110,11 @@
       </div>
     </div>
   </div>
-
-
+  <div class="footer-copyright">
+    <div class="container center">
+      <a class="grey-text text-darken-1" href="http://tlchatt.com">© 2017 Technologic, Inc. All Rights Reserved</a>
+    </div>
+  </div>
 </footer>
 
 
