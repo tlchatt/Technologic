@@ -1,5 +1,9 @@
-<<<<<<< HEAD
+
   GNU nano 2.5.3              File: .gitignore
+
+#other sites (haha)#
+###############
+/tristate
 
 #CSS directory#
 ###############
@@ -9,15 +13,6 @@
 /css/materialize.min.css
 /css/animate.css.map
 /css/animate.css
-=======
-#CSS directory#
-###############
-css/materialize.css
-css/materialize.map
-css/materialize.css.map
-css/materialize.min.css
->>>>>>> f3f62c84beda9c5c5efc3e09be3aed43a3e87785
-
 
 #Sass Cache#
 ###############
