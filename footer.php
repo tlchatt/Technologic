@@ -75,13 +75,13 @@
 
   <div class="row section">
     <div id="footerTxt1" class="invisible col s12 m4 center light">
-      <a href="https://www.google.com/maps/place/Technologic/@35.0472784,-85.3093526,17z/data=!3m1!4b1!4m5!3m4!1s0x88605c5c582c5051:0x2daa8379d07588fa!8m2!3d35.0472784!4d-85.3071586" class="white-text light"><i class="fa fa-map-o" aria-hidden="true"></i>&nbsp; 736 Georgia Ave, Chattanooga, TN 37402,</a>
+      <a href="https://www.google.com/maps/place/Technologic/@35.0472784,-85.3093526,17z/data=!3m1!4b1!4m5!3m4!1s0x88605c5c582c5051:0x2daa8379d07588fa!8m2!3d35.0472784!4d-85.3071586" class="white-text light"><i class="fa fa-map-o" aria-hidden="true"></i>&nbsp;&nbsp;736 Georgia Ave, Chattanooga, TN 37402,</a>
     </div>
     <div id="footerTxt2" class="invisible col s12 m4 center light">
-
+      <a class="white-text light"><i class="fa fa-calendar-check-o" aria-hidden="true"></i>&nbsp;&nbsp;<?php echo"$content $date2";?></a>
     </div>
     <div id="footerTxt3" class="invisible col s12 m4 center light" >
-      <a href="mailto:gw@tlchatt.com" class="white-text light"><i class="fa fa-paper-plane-o" aria-hidden="true"></i>&nbsp gw@tlchatt.com</a>
+      <a href="mailto:gw@tlchatt.com" class="white-text light"><i class="fa fa-paper-plane-o" aria-hidden="true"></i>&nbsp;&nbsp;gw@tlchatt.com</a>
     </div>
   </div>
 
