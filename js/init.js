@@ -5,7 +5,7 @@
       $('.parallax').parallax();
       $('.slider').slider({
         indicators: false,
-        interval: 2500,
+        interval: 5500,
         transition: 1500
       });
 
