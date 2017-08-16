@@ -22,7 +22,7 @@
       </div>
 
       <div id="scrollLink" href="#" class="scroll-wrapper">
-        <i class="fa fa-angle-down hoverable-flat-scroll shadow2" aria-hidden="true"></i>
+        <i class="fa fa-angle-down hoverable-flat shadow2" aria-hidden="true"></i>
       </div>
     </div>
 
