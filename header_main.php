@@ -3,8 +3,8 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <title>Technologic - Design, Optimization, Marketing for a Digital World</title>
-
+  <title>Technologic | Web Design, SEO, & Digital Marketing for Today's Internet</title>
+  
   <!-- CSS  -->
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/font-awesome.css" rel="stylesheet"/>
