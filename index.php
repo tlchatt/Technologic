@@ -156,7 +156,7 @@
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Technologic is the most hands-on local online marketing company in the Chattanooga area. Professional services with measurable results. They have helped us build a to-notch web presence from scratch, and achieve a noticeable increases in sales. Let Technologic handle the hard part with their affordable and reliable online marketing management services.</h5>
+            <h5 class="shadow2 light">Technologic is the most hands-on local online marketing company in the Chattanooga area. Professional services with measurable results. They have helped us build a top-notch web presence from scratch and achieve a noticeable increases in sales.</h5>
             <p>- Scott V.</p>
           </div>
         </li>
@@ -170,7 +170,7 @@
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">They are the absolute best at what they do. They designed my website and do my adwords. Gregg is the man. He is very honest, and doesn't sell anything you don't need. I chose Technologic and was very glad I did. Highly recommend!</h5>
+            <h5 class="shadow2 light">They are the absolute best at what they do. They designed my website and do my adwords. Gregg is the man. He is very honest, and doesn't sell anything you don't need. I chose Technologic and am very glad I did. Highly recommend!</h5>
             <p>- Josh W.</p>
           </div>
         </li>
@@ -184,7 +184,7 @@
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. Technologic built, updates, and maintains my website which looks wonderful and stays in the top three positions on search. He also helps me run advertising on Facebook which is highly effective. I would recommend Technologic to any small business needing help with any type of online services.</h5>
+            <h5 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. Technologic built and maintains my site which looks wonderful and stays in the top three positions on search. They also run advertising on Facebook which is highly effective.</h5>
             <p>- Denise W.</p>
           </div>
         </li>
