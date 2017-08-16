@@ -153,37 +153,41 @@
     <div class="parallax"><img src="./img/snoopers.jpg"></div>
     <div class="slider">
       <ul class="slides">
-        <!--<li>
+        <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
-            <p>Andy Berke  - Mayor of Chattanooga</p>
+            <h5 class="shadow2 light">Technologic is the most hands-on local online marketing company in the Chattanooga area. Professional services with measurable results. They have helped us build a to-notch web presence from scratch, and achieve a noticeable increases in sales. Let Technologic handle the hard part with their affordable and reliable online marketing management services.</h5>
+            <p>- Scott V.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            <h5 class="shadow2 light">I've worked with Greggory for the past couple of years and I would say he is one of the most knowledgeable in the Chattanooga area! I would highly recommend him for your website and SEO needs.</h5>
+            <p>- Martin M.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            <h5 class="shadow2 light">They are the absolute best at what they do. They designed my website and do my adwords. Gregg is the man. He is very honest, and doesn't sell anything you don't need. I chose Technologic and was very glad I did. Highly recommend!</h5>
+            <p>- Josh W.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            <h5 class="shadow2 light">They literally do it all, and they do it better than anyone. If you're looking for a place that does web design, adwords, or search engine optimization, call Gregg.</h5>
+            <p>- Katie A.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
           <div class="caption center-align">
-            <h5 class="shadow2 light">Customer review goes here. should be a pretty raving review. would help if it was a business owner or mayor.</h5>
+            <h5 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. Technologic built, updates, and maintains my website which looks wonderful and stays in the top three positions on search. He also helps me run advertising on Facebook which is highly effective. I would recommend Technologic to any small business needing help with any type of online services.</h5>
+            <p>- Denise W.</p>
           </div>
-        </li>-->
+        </li>
       </ul>
     </div>
   </div>
