@@ -184,7 +184,7 @@
         <li>
           <img src="./img/Clear.png">
           <div class="caption responsive-caption center-align">
-            <h6 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. Technologic built and maintains my site which looks wonderful and stays in the top three positions on search. They also run advertising on Facebook which is highly effective.</h6>
+            <h6 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. They built and maintain my site which looks wonderful and stays in the top three positions on search. They also run  highly effective advertising on Facebook.</h6>
             <p>- Denise W.</p>
           </div>
         </li>
