@@ -31,19 +31,19 @@
         $('#servicesOffering2').addClass("animated fadeInUp");
         $('#servicesOffering2').removeClass("invisible");
       } },
-      {selector: '#servicesOffering3', offset: 150, callback: function(el) {
+      {selector: '#servicesOffering3', offset: 125, callback: function(el) {
         $('#servicesOffering3').addClass("animated fadeInUp");
         $('#servicesOffering3').removeClass("invisible");
       } },
-      {selector: '#servicesOffering4', offset: 175, callback: function(el) {
+      {selector: '#servicesOffering4', offset: 125, callback: function(el) {
         $('#servicesOffering4').addClass("animated fadeInUp");
         $('#servicesOffering4').removeClass("invisible");
       } },
-      {selector: '#servicesOffering5', offset: 200, callback: function(el) {
+      {selector: '#servicesOffering5', offset: 125, callback: function(el) {
         $('#servicesOffering5').addClass("animated fadeInUp");
         $('#servicesOffering5').removeClass("invisible");
       } },
-      {selector: '#servicesOffering6', offset: 225, callback: function(el) {
+      {selector: '#servicesOffering6', offset: 125, callback: function(el) {
         $('#servicesOffering6').addClass("animated fadeInUp");
         $('#servicesOffering6').removeClass("invisible");
       } },
