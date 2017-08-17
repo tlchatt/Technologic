@@ -83,7 +83,7 @@ $TL-dark: #333;
 }
 
 
-//hero parallax caption positioning
+//h1 caption positioning
 .caption-wrapper {
   position: absolute;
   color: #fff;
@@ -103,6 +103,28 @@ $TL-dark: #333;
   @media #{$small-and-down} {
     top: 8% !important;
   }
+}
+
+//parallax caption positioning
+.responsive-caption {
+  color: #fff;
+  position: absolute;
+  left: 15%;
+  width: 70%;
+  opacity: 0;
+  top: 25% !important;
+  
+    @media #{$large-and-up} {
+      top: 25% !important;
+    }
+    @media #{$medium-only} {
+      top: 15% !important;
+    }
+    @media #{$small-and-down} {
+      top: 5% !important;
+    }
+
+  p { color: $slider-bg-color-light; }
 }
 
 //custom hover styling
