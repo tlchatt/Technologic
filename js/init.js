@@ -15,35 +15,35 @@
     //scrollfire mess
     var options = [
   //services
-      {selector: '#servicesTitle', offset: 125, callback: function(el) {
+      {selector: '#servicesTitle', offset: 100, callback: function(el) {
         $('#servicesTitle').addClass("animated fadeInUp");
         $('#servicesTitle').removeClass("invisible");
       } },
-      {selector: '#servicesDiv', offset: 125, callback: function(el) {
+      {selector: '#servicesDiv', offset: 100, callback: function(el) {
         $('#servicesDiv').addClass("animated fadeInUp");
         $('#servicesDiv').removeClass("invisible");
       } },
-      {selector: '#servicesOffering1', offset: 125, callback: function(el) {
+      {selector: '#servicesOffering1', offset: 100, callback: function(el) {
         $('#servicesOffering1').addClass("animated fadeInUp");
         $('#servicesOffering1').removeClass("invisible");
       } },
-      {selector: '#servicesOffering2', offset: 150, callback: function(el) {
+      {selector: '#servicesOffering2', offset: 125, callback: function(el) {
         $('#servicesOffering2').addClass("animated fadeInUp");
         $('#servicesOffering2').removeClass("invisible");
       } },
-      {selector: '#servicesOffering3', offset: 175, callback: function(el) {
+      {selector: '#servicesOffering3', offset: 150, callback: function(el) {
         $('#servicesOffering3').addClass("animated fadeInUp");
         $('#servicesOffering3').removeClass("invisible");
       } },
-      {selector: '#servicesOffering4', offset: 200, callback: function(el) {
+      {selector: '#servicesOffering4', offset: 175, callback: function(el) {
         $('#servicesOffering4').addClass("animated fadeInUp");
         $('#servicesOffering4').removeClass("invisible");
       } },
-      {selector: '#servicesOffering5', offset: 250, callback: function(el) {
+      {selector: '#servicesOffering5', offset: 200, callback: function(el) {
         $('#servicesOffering5').addClass("animated fadeInUp");
         $('#servicesOffering5').removeClass("invisible");
       } },
-      {selector: '#servicesOffering6', offset: 275, callback: function(el) {
+      {selector: '#servicesOffering6', offset: 225, callback: function(el) {
         $('#servicesOffering6').addClass("animated fadeInUp");
         $('#servicesOffering6').removeClass("invisible");
       } },
