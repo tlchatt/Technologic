@@ -155,36 +155,36 @@
       <ul class="slides">
         <li>
           <img src="./img/Clear.png">
-          <div class="caption center-align">
-            <h5 class="shadow2 light">Technologic is the most hands-on local online marketing company in the Chattanooga area. Professional services with measurable results. They have helped us build a top-notch web presence from scratch and achieve a noticeable increases in sales.</h5>
+          <div class="caption responsive-caption center-align">
+            <h6 class="shadow2 light">Technologic is the most hands-on online marketing company in the Chattanooga area. Professional services with measurable results. They've helped us build a top-notch web presence from scratch and achieve a noticeable increases in sales.</h6>
             <p>- Scott V.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
-          <div class="caption center-align">
-            <h5 class="shadow2 light">I've worked with Greggory for the past couple of years and I would say he is one of the most knowledgeable in the Chattanooga area! I would highly recommend him for your website and SEO needs.</h5>
+          <div class="caption responsive-caption center-align">
+            <h6 class="shadow2 light">I've worked with Greggory for the past couple of years and I would say he is one of the most knowledgeable in the Chattanooga area! I would highly recommend him for your website and SEO needs.</h6>
             <p>- Martin M.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
-          <div class="caption center-align">
-            <h5 class="shadow2 light">They are the absolute best at what they do. They designed my website and do my adwords. Gregg is the man. He is very honest, and doesn't sell anything you don't need. I chose Technologic and am very glad I did. Highly recommend!</h5>
+          <div class="caption responsive-caption center-align">
+            <h6 class="shadow2 light">They are the absolute best at what they do. They designed my website and do my adwords. Gregg is the man. He is very honest, and doesn't sell anything you don't need. I chose Technologic and am very glad I did. Highly recommend!</h6>
             <p>- Josh W.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
-          <div class="caption center-align">
-            <h5 class="shadow2 light">They literally do it all, and they do it better than anyone. If you're looking for a place that does web design, adwords, or search engine optimization, call Gregg.</h5>
+          <div class="caption responsive-caption center-align">
+            <h6 class="shadow2 light">They literally do it all, and they do it better than anyone. If you're looking for a place that does web design, adwords, or search engine optimization, call Gregg.</h6>
             <p>- Katie A.</p>
           </div>
         </li>
         <li>
           <img src="./img/Clear.png">
-          <div class="caption center-align">
-            <h5 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. Technologic built and maintains my site which looks wonderful and stays in the top three positions on search. They also run advertising on Facebook which is highly effective.</h5>
+          <div class="caption responsive-caption center-align">
+            <h6 class="shadow2 light">Gregg and his Technologic team have consistently helped my Chiropractic office stay relevant online for three years running. Technologic built and maintains my site which looks wonderful and stays in the top three positions on search. They also run advertising on Facebook which is highly effective.</h6>
             <p>- Denise W.</p>
           </div>
         </li>
