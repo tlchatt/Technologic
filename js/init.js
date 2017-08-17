@@ -35,7 +35,7 @@
         $('#servicesOffering3').addClass("animated fadeInUp");
         $('#servicesOffering3').removeClass("invisible");
       } },
-      {selector: '#servicesOffering4', offset: 225, callback: function(el) {
+      {selector: '#servicesOffering4', offset: 215, callback: function(el) {
         $('#servicesOffering4').addClass("animated fadeInUp");
         $('#servicesOffering4').removeClass("invisible");
       } },
