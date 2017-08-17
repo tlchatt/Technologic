@@ -82,7 +82,7 @@
         $('#aboutImg2').addClass("animated fadeInUp");
         $('#aboutImg2').removeClass("invisible");
       } },
-      {selector: '#aboutImg3', offset: 250, callback: function(el) {
+      {selector: '#aboutImg3', offset: 200, callback: function(el) {
         $('#aboutImg3').addClass("animated fadeInRight");
         $('#aboutImg3').removeClass("invisible");
       } },
