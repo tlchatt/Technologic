@@ -29,16 +29,16 @@ $TL-dark: #333;
 
 // slider font breakpoints
 .heading {
-  font-size: 3.56rem !important;
+  font-size: 3.75rem !important;
 
   @media #{$large-and-up} {
     font-size: 3.56rem !important;
   }
   @media #{$medium-only} {
-    font-size: 3.00rem !important;
+    font-size: 2.85rem !important;
   }
   @media #{$small-and-down} {
-    font-size: 2.56rem !important;
+    font-size: 2.45rem !important;
   }
 }
 
