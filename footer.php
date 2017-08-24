@@ -66,7 +66,7 @@
     <h4 id="footerTitle" class="invisible center thin">GET IN TOUCH</h4>
   </div>
   <div id="footerImg" class="invisible center">
-    <img class="z-depth-2 tl-circle" src="./img/gw_suit.png">
+    <img class="z-depth-2 tl-circle" src="./img/gw_suit.jpg">
     <p class="light">Have questions? Give Gregg a call.</p>
     <p>
       <a href="tel:423-377-6111" class="thin white-text"><i class="fa fa-mobile" aria-hidden="true"></i>&nbsp; 423.377.6111</a>

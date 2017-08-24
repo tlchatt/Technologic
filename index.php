@@ -1,10 +1,11 @@
 <?php include("header_main.php"); ?>
 
 <!--fullscreen slider intro image-->
+<div class="content">
 <div class="parallax-container fullscreen">
   <div class="slider fullscreen">
     <ul class="slides">
-      <li><img src="./img/walnut_st_bridge_filter_cropped.png"></li>
+      <li><img src="./img/walnut_st_bridge_filter_cropped.jpg"></li>
       <li><img src="./img/raccoon.jpg"></li>
       <li><img src="./img/rooftop.jpg"></li>
       <li><img src="./img/aquarium.jpg"></li>
@@ -25,28 +26,13 @@
         <i class="fa fa-angle-down hoverable-flat shadow2" aria-hidden="true"></i>
       </div>
     </div>
-
   </div>
+</div>
 </div>
 <!--end of fullscreen slider-->
 
 
-<!--sticky nav (needs css/js)
-
-
-<nav id='nav_bar'>
-<ul class='nav_links'>
-<li><a href="url">Nav Bar</a></li>
-<li><a href="url">Sign In</a></li>
-<li><a href="url">Blog</a></li>
-<li><a href="url">About</a></li>
-</ul>
-</nav>
-
--->
-
-
-
+<!--sticky nav needs css/js -->
 
 <!--end of sticky nav -->
 
@@ -56,7 +42,7 @@
 
 
 <!--services section-->
-<div style="padding: 0 30px 180px 30px;">
+<div class="after-nav" style="padding: 0 30px 180px 30px;">
   <a id="services" name="services"></a>
   <div class="row">
     <div class="section">
@@ -103,16 +89,16 @@
       <h4 id="workTitle" class="invisible center thin">WORK</h4>
     </div>
     <div id="workImg1" class="invisible col s6" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.jpg">
     </div>
     <div id="workImg2" class="invisible col s6" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.jpg">
     </div>
     <div id="workImg3" class="invisible col s6" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.jpg">
     </div>
     <div id="workImg4" class="invisible col s6" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.jpg">
     </div>
   </div>
 </div>
@@ -134,7 +120,7 @@
         <img style="background-color: #7cc1f7;" class="z-depth-3 responsive-img hoverable" src="./img/Technologic_logo_white_crop.png">
       </div>
       <div id="aboutImg3" class="invisible col s4">
-        <img class="z-depth-3 responsive-img hoverable" src="./img/metrics.png">
+        <img class="z-depth-3 responsive-img hoverable" src="./img/metrics.jpg">
       </div>
       <div class="col s12">
         <div class="container">
@@ -206,14 +192,14 @@
     <div style="padding: 15px 0;"></div> <!--maybe find a more elegant way to do this-->
     <div id="team1" class="invisible col s12 xl6 center">
       <div class="section">
-        <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/gw_suit.png">
+        <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/gw_suit.jpg">
         <p class="light">Greggory Wiley</p>
         <em class="thin">owner / supreme leader</em>
       </div>
     </div>
     <div id="team2" class="invisible col s12 xl6 center">
       <div class="section">
-        <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/Mallory_crop.png">
+        <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/Mallory_crop.jpg">
         <p class="light">Mallory Nelson</p>
         <em class="thin">graphic designer / advertising princess</em>
       </div>
