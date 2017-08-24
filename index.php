@@ -5,7 +5,7 @@
 <div class="parallax-container fullscreen">
   <div class="slider fullscreen">
     <ul class="slides">
-      <li><img src="./img/walnut_st_bridge_filter_cropped.jpg"></li>
+      <li><img src="./img/Optimized-walnut_st_bridge_filter_cropped.jpg"></li>
       <li><img src="./img/raccoon.jpg"></li>
       <li><img src="./img/rooftop.jpg"></li>
       <li><img src="./img/aquarium.jpg"></li>
