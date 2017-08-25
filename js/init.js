@@ -12,7 +12,7 @@
 
     }); // end of document ready
 
-    //scrollfire mess
+//scrollfire mess
     var options = [
   //services
       {selector: '#servicesTitle', offset: 100, callback: function(el) {
@@ -200,6 +200,30 @@
     })
     $("#scrollLink_sidefooter").click(function() {
       scrollToAnchor('footer');
+    });
+
+    //sticky navbar
+    var fixmeTop = $('.fixme').offset().top;
+    $(window).scroll(function() {
+        var currentScroll = $(window).scrollTop();
+        if (currentScroll >= fixmeTop) {
+            $('.fixme').css({
+                position: 'fixed',
+                top: '0',
+                width: "100%",
+                left: '0'
+            });
+            $('.after-nav').css({
+              offset: '95px;'
+          });
+        } else {
+            $('.fixme').css({
+                position: 'static'
+            });
+            $('.after-nav').css({
+              offset: '0;'
+          });
+        }
     });
 
 

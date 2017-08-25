@@ -166,9 +166,25 @@ $TL-dark: #333;
   transition: transform .3s !important;
 }
 
-// css shite for sticky navbar
 
-//tlchatt css absolute circle
+
+// css shite for sticky navbar
+.content {
+ 
+}
+.fixme { 
+  background: green; 
+  color: white; 
+  text-align: center; 
+  width: 100%; }
+
+.after-nav {
+  offset: 96px;
+}
+
+
+
+  //tlchatt css absolute circle
 .square {
   border: 5px solid red;
   position: relative;
