@@ -45,43 +45,42 @@
 
 
 <!--services section-->
-<div class="after-nav" style="padding: 0 30px 180px 30px;">
+<div class="after-nav" style="padding: 70px 0px 70px 0px;">
   <a id="services" name="services"></a>
-  <div class="row">
-    <div class="section">
       <h4 id="servicesTitle" class="center thin invisible">SERVICES</h4>
-    </div>
+
     <div id="servicesDiv" class="invisible divider"></div>
-    <div class="section">
-      <div id="servicesOffering1" class="invisible col s12 l4">
-        <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true"></i>&nbsp;&nbsp;WEB DESIGN & DEVELOPMEMNT</h5>
-        <p class="light text-lighten-1">From simple one-page sites to full wordpress customizations, we build it all.</p>
-        <!--<p>Technologic offers custom tailored web development services. We ensure compatibility across all popular browsers and platforms. Web users expect sites to load quickly regardless of whether they are using wifi or cellular. Sites also need to look good on any screen size. This is called responsive design. At Technologic, we build every site to be responsive from the ground up.</p>-->
+
+          <div class="container" style="padding: 35px 0px 35px 0px;">
+            <div class="row">
+
+      <div id="servicesOffering1" class="invisible col s12 l6">
+        <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true"></i>WEB DESIGN & DEVELOPMEMNT</h5>
+
+        <p class="light text-lighten-1">Custom built user friendly, website design optimized for search engine ranking and social media sharing. </p>
+
       </div>
-      <div id="servicesOffering2" class="invisible col s12 l4">
-        <h5 class="light"><i class="fa fa-line-chart" aria-hidden="true"></i>&nbsp;&nbsp;SEARCH ENGINE OPTIMIZATION</h5>
-        <p class="light text-lighten-1">Rank first on search. Enough said.</p>
+
+      <div id="servicesOffering2" class="invisible col s12 l6">
+        <h5 class="light"><i class="fa fa-line-chart" aria-hidden="true"></i>SEARCH ENGINE OPTIMIZATION</h5>
+        <p class="light text-lighten-1">Rank highly and look professional on search. Enough said.</p>
       </div>
-      <div id="servicesOffering3" class="invisible col s12 l4">
-        <h5 class="light"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;&nbsp;ONLINE MARKETING</h5>
-        <p class="light text-lighten-1">We deliver the higest value per dollar. Advertise across any online platform.</p>
-        <!--<p>We work directly on behalf of your business to produce the best return on advertising investment possible. We provide month to month <strong>obligation free</strong> service. We establish long-term relationships with our clients through positive results, not contractual obligations.</p>-->
+    </div>
+    <div class="row">
+      <div id="servicesOffering3" class="invisible col s12 l6">
+        <h5 class="light"><i class="fa fa-bullhorn" aria-hidden="true"></i>ONLINE ADVERTISING</h5>
+        <p class="light text-lighten-1">Reach your customers everywhere they spend time online. Advertise across online platfroms including search engines and social media. Anlaytics based strategies ensure the best possible ROI for your digital advertising budget.</p>
+
       </div>
-      <div id="servicesOffering4" class="invisible col s12 l4">
-        <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true"></i>&nbsp;&nbsp;E-COMMERCE INTEGRATION</h5>
-        <p class="light text-lighten-1">Fulfill every order, slash overhead, and manage inventory like a pro.</p>
+      <div id="servicesOffering4" class="invisible col s12 l6">
+        <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true"></i>E-COMMERCE MARKETING</h5>
+        <p class="light text-lighten-1">E-Commerce specific digital advertsing management on platforms such as Goole Shopping, Facebook, Instagram, and Pinterest.</p>
       </div>
-      <!--<div id="servicesOffering5" class="invisible col s12 l4">
-        <h5 class="light">FIFTH SERVICE OFFERING</h5>
-        <p class="light text-lighten-1">Brief description of the fifth service offered by Technologic.</p>
-      </div>
-      <div id="servicesOffering6" class="invisible col s12 l4">
-        <h5 class="light">SIXTH SERVICE OFFERING</h5>
-        <p class="light text-lighten-1">Brief description of the sixth service offered by Technologic.</p>
-      </div>-->
     </div>
   </div>
-</div>
+      </div>
+
+
 
 
 <!--work section-->
@@ -129,8 +128,8 @@
         <div class="container">
           <div class="section">
             <div class="section">
-              <p id="aboutTxt1" class="invisible light">Technologic is based in Chattanooga, where we enjoy the fastest internet in the country.</p>
-              <p id="aboutTxt2" class="invisible light">We love our work, and we know you will too.</p>
+              <h5 id="aboutTxt1" class="invisible light center">Technologic is based in Chattanooga, where we enjoy the fastest internet in the country.</h5>
+              <h5 id="aboutTxt2" class="invisible light center">We love our work, and we know you will too.</h5>
             </div>
           </div>
         </div>

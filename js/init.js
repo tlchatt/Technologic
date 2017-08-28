@@ -27,7 +27,7 @@
         $('#servicesOffering1').addClass("animated fadeInUp");
         $('#servicesOffering1').removeClass("invisible");
       } },
-      {selector: '#servicesOffering2', offset: 125, callback: function(el) {
+      {selector: '#servicesOffering2', offset: 100, callback: function(el) {
         $('#servicesOffering2').addClass("animated fadeInUp");
         $('#servicesOffering2').removeClass("invisible");
       } },
@@ -203,6 +203,7 @@
     });
 
     //sticky navbar
+    /**
     var fixmeTop = $('.fixme').offset().top;
     $(window).scroll(function() {
         var currentScroll = $(window).scrollTop();
@@ -225,7 +226,7 @@
           });
         }
     });
-
+**/
 
   });
 })(jQuery); // end of jQuery name space
