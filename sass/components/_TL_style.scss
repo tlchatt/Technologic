@@ -29,6 +29,7 @@ $TL-dark: #333;
 
 // slider font breakpoints
 .heading {
+  text-transform: uppercase;
   font-size: 3.75rem !important;
 
   @media #{$large-and-up} {
