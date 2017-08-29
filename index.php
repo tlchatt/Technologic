@@ -47,38 +47,35 @@
 <!--services section-->
 <div class="after-nav" style="padding: 70px 0px 70px 0px;">
   <a id="services" name="services"></a>
-      <h4 id="servicesTitle" class="center thin invisible">SERVICES</h4>
-
+    <h4 id="servicesTitle" class="center thin invisible">SERVICES</h4>
     <div id="servicesDiv" class="invisible divider"></div>
-
-          <div class="container" style="padding: 35px 0px 35px 0px;">
-            <div class="row">
-
-      <div id="servicesOffering1" class="invisible col s12 l6">
-        <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true"></i>WEB DESIGN & DEVELOPMEMNT</h5>
-
-        <p class="light text-lighten-1">Custom built user friendly, website design optimized for search engine ranking and social media sharing. </p>
-
+    <div class="container" style="padding: 35px 0px 35px 0px;">
+      
+      <div class="row">
+        <div id="servicesOffering1" class="invisible col s12 l6">
+          <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true" style="padding-right: 1rem;"></i>WEB DESIGN & DEVELOPMEMNT</h5>
+          <p class="light text-lighten-1">Custom built, professional, and user friendly website design. Created with search engine ranking and social media sharing in mind. </p>
+        </div>
+        <div id="servicesOffering2" class="invisible col s12 l6">
+          <h5 class="light"><i class="fa fa-line-chart" aria-hidden="true" style="padding-right: 1rem;"></i>SEARCH ENGINE OPTIMIZATION</h5>
+          <p class="light text-lighten-1">Rank highly and look professional on search. Enough said.</p>
+        </div>
       </div>
 
-      <div id="servicesOffering2" class="invisible col s12 l6">
-        <h5 class="light"><i class="fa fa-line-chart" aria-hidden="true"></i>SEARCH ENGINE OPTIMIZATION</h5>
-        <p class="light text-lighten-1">Rank highly and look professional on search. Enough said.</p>
+      <div class="row">
+        <div id="servicesOffering3" class="invisible col s12 l6">
+          <h5 class="light"><i class="fa fa-bullhorn" aria-hidden="true" style="padding-right: 1rem;"></i>ONLINE ADVERTISING</h5>
+          <p class="light text-lighten-1">Reach your ideal customer wherever they spend time online. Advertise across search and social platforms. Our strategies ensure the best possible ROI for your budget.</p>
+        </div>
+        <div id="servicesOffering4" class="invisible col s12 l6">
+          <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true" style="padding-right: 1rem;"></i>E-COMMERCE MARKETING</h5>
+          <p class="light text-lighten-1">E-Commerce specific digital advertsing management on Goole Shopping, Facebook, Instagram, and Pinterest and more.</p>
+        </div>
       </div>
-    </div>
-    <div class="row">
-      <div id="servicesOffering3" class="invisible col s12 l6">
-        <h5 class="light"><i class="fa fa-bullhorn" aria-hidden="true"></i>ONLINE ADVERTISING</h5>
-        <p class="light text-lighten-1">Reach your customers everywhere they spend time online. Advertise across online platfroms including search engines and social media. Anlaytics based strategies ensure the best possible ROI for your digital advertising budget.</p>
-
-      </div>
-      <div id="servicesOffering4" class="invisible col s12 l6">
-        <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true"></i>E-COMMERCE MARKETING</h5>
-        <p class="light text-lighten-1">E-Commerce specific digital advertsing management on platforms such as Goole Shopping, Facebook, Instagram, and Pinterest.</p>
-      </div>
+    
     </div>
   </div>
-      </div>
+</div>
 
 
 
@@ -128,8 +125,8 @@
         <div class="container">
           <div class="section">
             <div class="section">
-              <h5 id="aboutTxt1" class="invisible light center">Technologic is based in Chattanooga, where we enjoy the fastest internet in the country.</h5>
-              <h5 id="aboutTxt2" class="invisible light center">We love our work, and we know you will too.</h5>
+              <p id="aboutTxt1" class="invisible light center" style="font-size:17px;">Technologic is based in Chattanooga, where we enjoy the fastest internet in the country.</p>
+              <p id="aboutTxt2" class="invisible light center" style="font-size:17px;">We love our work, and we know you will too. Give us a call and find out what we can do for you.</p>
             </div>
           </div>
         </div>
