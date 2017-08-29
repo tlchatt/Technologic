@@ -89,23 +89,20 @@
     <div class="row">
       <div id="footerSocial1" class="invisible col s4 center-align">
         <a class="tl-circle hoverable-circle hoverable valign-wrapper" href="https://www.facebook.com/tlchatt/">
-          <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-facebook fa-2x" aria-hidden="true"></i>
-          <i class="show-on-large hide-on-med-and-down fa fa-facebook fa-3x" aria-hidden="true"></i>
-          <i class="show-on-small hide-on-med-and-up fa fa-facebook" aria-hidden="true"></i>
+          <i class="show-on-large hide-on-med-and-down fa fa-facebook fa-2x" aria-hidden="true"></i>
+          <i class="show-on-med-and-down hide-on-large-only fa fa-facebook" aria-hidden="true"></i>
         </a>
       </div>
       <div id="footerSocial2" class="invisible col s4 center-align">
         <a class=" tl-circle hoverable hoverable-circle valign-wrapper" href="https://www.linkedin.com/company/technologic-chattanooga">
-          <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-linkedin fa-2x" aria-hidden="true"></i>
-          <i class="show-on-large hide-on-med-and-down fa fa-linkedin fa-3x" aria-hidden="true"></i>
-          <i class="show-on-small hide-on-med-and-up fa fa-linkedin" aria-hidden="true"></i>
+          <i class="show-on-large hide-on-med-and-down fa fa-linkedin fa-2x" aria-hidden="true"></i>
+          <i class="show-on-med-and-down hide-on-large-only fa fa-linkedin" aria-hidden="true"></i>
         </a>
       </div>
       <div id="footerSocial3" class="invisible col s4 center-align">
         <a class="tl-circle hoverable-circle hoverable valign-wrapper" href="https://plus.google.com/+Tlchatt">
-          <i class="show-on-medium hide-on-small-only hide-on-large-only fa fa-google fa-2x" aria-hidden="true"></i>
-          <i class="show-on-large hide-on-med-and-down fa fa-google fa-3x" aria-hidden="true"></i>
-          <i class="show-on-small hide-on-med-and-up fa fa-google" aria-hidden="true"></i>
+          <i class="show-on-large hide-on-med-and-down fa fa-google fa-2x" aria-hidden="true"></i>
+          <i class="show-on-med-and-down hide-on-large-only fa fa-google" aria-hidden="true"></i>
         </a>
       </div>
     </div>
