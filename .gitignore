@@ -17,7 +17,11 @@
 
 #Sass Cache#
 ###############
-/.sass-cache
+.sass-cache/
+
+#VS Code data#
+#############
+.vscode/
 
 # Compiled source #
 ###################
@@ -50,7 +54,6 @@
 # OS generated files #
 ######################
 .DS_Store
-.3DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
