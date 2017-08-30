@@ -14,7 +14,7 @@
     </ul>
     <div>
       <div class="caption-wrapper left-align">
-        <h1 class="shadow2 light heading">WEB DESIGN, SEO, & DIGITAL MARKETING FOR THE MODERN WEB</h1>
+        <h1 class="shadow2 light heading">Web Design, SEO, & Digital Marketing for the Modern Web</h1>
         <h5 class="light text-lighten-3 shadow">We deliver real results for an unreal price.</h5>
       </div>
 
@@ -33,11 +33,12 @@
 
 
 <!--sticky nav needs css/js
+
 <div class="fixme">
   <div>something here</div>
 </div>
- -->
-<!--end of sticky nav -->
+
+end of sticky nav -->
 
 
 
