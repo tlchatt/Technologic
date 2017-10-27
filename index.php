@@ -54,7 +54,7 @@ end of sticky nav -->
       
       <div class="row">
         <div id="servicesOffering1" class="invisible col s12 l6">
-          <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true" style="padding-right: 1rem;"></i>WEB DESIGN & DEVELOPMEMNT</h5>
+          <h5 class="light"><i class="fa fa-sitemap" aria-hidden="true" style="padding-right: 1rem;"></i>WEB DESIGN & DEVELOPMENT</h5>
           <p class="light text-lighten-1">Custom built, professional, and user friendly website design. Created with search engine ranking and social media sharing in mind. </p>
         </div>
         <div id="servicesOffering2" class="invisible col s12 l6">
@@ -70,7 +70,7 @@ end of sticky nav -->
         </div>
         <div id="servicesOffering4" class="invisible col s12 l6">
           <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true" style="padding-right: 1rem;"></i>E-COMMERCE MARKETING</h5>
-          <p class="light text-lighten-1">E-Commerce specific digital advertsing management on Goole Shopping, Facebook, Instagram, and Pinterest and more.</p>
+          <p class="light text-lighten-1">E-Commerce specific digital advertsing management on Google Shopping, Facebook, Instagram, and Pinterest and more.</p>
         </div>
       </div>
     
