@@ -70,7 +70,7 @@ end of sticky nav -->
         </div>
         <div id="servicesOffering4" class="invisible col s12 l6">
           <h5 class="light"><i class="fa fa-shopping-cart" aria-hidden="true" style="padding-right: 1rem;"></i>E-COMMERCE MARKETING</h5>
-          <p class="light text-lighten-1">E-Commerce specific digital advertsing management on Goole Shopping, Facebook, Instagram, and Pinterest and more.</p>
+          <p class="light text-lighten-1">E-Commerce specific digital advertsing management on Goole Shopping, Facebook, Instagram, Pinterest and more.</p>
         </div>
       </div>
     
@@ -208,7 +208,7 @@ end of sticky nav -->
       <div class="section">
         <img class="z-depth-1 hoverable circle" style="height: 250px; width: 250px;" src="./img/cole.jpg">
         <p class="light">Cole Montalvo</p>
-        <em class="thin">developer / software breaker</em>
+        <em class="thin">developer / bug killer</em>
       </div>
     </div>
     <div id="team4" class="invisible col s12 xl6 center">
