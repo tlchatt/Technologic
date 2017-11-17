@@ -6,10 +6,10 @@
   <title>Technologic | Web Design, SEO, & Digital Marketing for Today's Internet</title>
 
   <!-- CSS  -->
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="css/font-awesome.css" rel="stylesheet"/>
-  <link rel="stylesheet" href="css/animate.css">
-  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="min/AboveTheFold.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="min/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="min/font-awesome.min.css" type="text/css" rel="stylesheet"/>
+  <link href="min/style.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
   <!--favicons-->
   <link rel="apple-touch-icon" sizes="57x57" href="./img/ico/apple-icon-57x57.png">
