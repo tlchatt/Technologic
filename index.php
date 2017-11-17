@@ -108,16 +108,16 @@ end of sticky nav -->
       <h4 id="workTitle" class="invisible center thin">WORK</h4>
     </div>
     <div id="workImg1" class="invisible col s6 m3" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/blueplate.jpg">
     </div>
     <div id="workImg2" class="invisible col s6 m3" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/johnsen.jpg">
     </div>
     <div id="workImg3" class="invisible col s6 m3" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/chattown.jpg">
     </div>
     <div id="workImg4" class="invisible col s6 m3" style="padding: 0 10px 15px 10px;">
-      <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.png">
+      <img class="z-depth-3 responsive-img hoverable" src="./img/tristate.jpg">
     </div>
   </div>
 </div>
