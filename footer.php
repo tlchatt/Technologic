@@ -56,7 +56,7 @@
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="./min/materialize.min.js"></script>
 <script src="./js/submit_contact.js"></script>
-<script src="./js/init.js"></script>
+<script src="./min/init.min.js"></script>
 
 </body>
 </html>
