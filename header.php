@@ -6,6 +6,7 @@
   <title>Technologic | Web Design, SEO, & Digital Marketing for Today's Internet</title>
 
   <!-- CSS  -->
+  <link href="css/AboveTheFold.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/font-awesome.css" type="text/css" rel="stylesheet"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
