@@ -8,6 +8,7 @@
   <!-- CSS  -->
   <link href="min/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="min/font-awesome.min.css" type="text/css" rel="stylesheet"/>
+  <link href="min/animate.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="min/style.min.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
   <!--favicons-->
