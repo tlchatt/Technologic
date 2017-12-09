@@ -58,7 +58,19 @@ $TL-dark: #333;
 
   }
 }
+.logo-wrapper2 {
+  position: absolute;
+  z-index: 997;
+  top: 1%;
+  right: 1%;
+  text-align: right;
 
+  img {
+    width: 65%;
+    min-width: 80px !important;
+
+  }
+}
 // scroll down link positioning
 .scroll-wrapper {
   position: absolute;
@@ -103,6 +115,34 @@ $TL-dark: #333;
   }
   @media #{$small-and-down} {
     top: 8% !important;
+  }
+}
+.caption-wrapper2 {
+  position: relative;
+  color: #000;
+  z-index: 997;
+  left: 7%;
+  width: 55%;
+  text-align: left;
+
+  top: 15% !important;
+
+  @media #{$large-and-up} {
+    top: 20% !important;
+  }
+  @media #{$medium-only} {
+    top: 15% !important;
+  }
+  @media #{$small-and-down} {
+    top: 8% !important;
+  }
+}
+
+.imageFlash{
+  height:40vh;
+  img{
+    max-width: 100%;
+    max-height:100%;
   }
 }
 

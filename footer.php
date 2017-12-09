@@ -57,6 +57,7 @@
 <script src="./js/bin/materialize.js"></script>
 <script src="./js/submit_contact.js"></script>
 <script src="./js/init.js"></script>
+<script src="./js/imageFlash.js"></script>
 
 </body>
 </html>
