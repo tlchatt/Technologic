@@ -1,0 +1,3 @@
+[submodule "externalscripts/muse/MapsAPIEmbedableMuse"]
+	path = externalscripts/muse/MapsAPIEmbedableMuse
+	url = https://github.com/tlchatt/MapsAPIEmbedableMuse.git

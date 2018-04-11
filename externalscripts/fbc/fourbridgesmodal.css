@@ -44,7 +44,7 @@ margin-top: -15px;
     margin: auto;
     overflow-y: auto;
     border-radius: 2px;
-    top: 3vh !important;
+    top: 2vh !important;
         font-size: .80em;
     will-change: top, opacity;
 }
@@ -112,7 +112,7 @@ input:not([type]), input[type=text], input[type=password], input[type=email], in
       margin: auto;
       overflow-y: auto;
       border-radius: 2px;
-      top: 2vh !important;
+      top: 4vh !important;
       font-size: .95em;
       will-change: top, opacity;
   }

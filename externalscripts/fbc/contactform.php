@@ -3,7 +3,7 @@
   <html>
     <head>
       <!--Import Google Icon Font-->
-      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
       <link rel="stylesheet" href="/externalscripts/fbc/materialize/css/materialize.css">
       <link rel="stylesheet" href="/externalscripts/fbc/fourbridgesmodal.css">
@@ -28,12 +28,12 @@
                 <p>How to close a deal with the right buyer, on the right terms, for the best value.</p>
                </div>
               <div class="col s12 m5 modal2-right">
-              <img src="http://tlchatt.com/externalscripts/fbc/ebook.png">
+              <img src="https://tlchatt.com/externalscripts/fbc/ebook.png">
               </div>
             </div>
 
             <div class="row">
-              <form id="contactForm" class="col s12" action="http://tlchatt.com/externalscripts/fbc/contactformsubmit.php" method="POST" >
+              <form id="contactForm" class="col s12" action="https://tlchatt.com/externalscripts/fbc/contactformsubmit.php" method="POST" >
                 <div class="row">
                   <div class="input-field col s12 l6">
                     <input id="first-name" type="text" class="validate" required>
@@ -70,6 +70,6 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
 
-<script src="http://tlchatt.com/externalscripts/fbc/contactform.js" type="text/javascript"></script>
+<script src="https://tlchatt.com/externalscripts/fbc/contactform.js" type="text/javascript"></script>
 
 </html>
